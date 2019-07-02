@@ -1,2 +1,2 @@
 # Tjurskalle
-Small android app that connect to a server and gets/posts data
+Small android app that connects to a server and gets/posts data
