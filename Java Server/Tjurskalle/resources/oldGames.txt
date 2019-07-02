@@ -1,0 +1,5 @@
+oldGames
+1npEmma,9,9,14,19npMalin,3,12,17,22npUlrika,23,49,54,69npKarin,23,46,51,56npJosefin,17,33,38,43np2019-06-21
+2npRebecka,19,26,29npEmma,19,32,40npMalin,9,22,34npUlrika,23,54,73npKarin,0,14,18npJosefin,11,23,44np2019-06-21
+3npRoland,11,29,52,68npChristina,10,10,11,20npJosse,15,45,64,69npMax,7,24,36,55np2019-06-30
+4npRoland,10,23,36,39npChristina,9,9,27,42npMax,29,48,55,73npJosse,12,41,48,65np2019-06-30

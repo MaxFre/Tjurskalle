@@ -1,0 +1,11 @@
+﻿6nimmt app
+
+kolla tidigare games, vilket datum, och sen vem som förlorar/vann
+kolla vem som har haft sämsta rundan,
+kolla vem som har haft sämsta spelomgång
+
+
+-----NYTT GAME-----
+Skriver in spelare, sen tryck gå
+skriver in allas poäng varje runda,
+

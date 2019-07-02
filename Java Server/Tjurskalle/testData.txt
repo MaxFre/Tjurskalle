@@ -1,0 +1,420 @@
+﻿Byrå	2018-11-08	delivered	Möbler	-	Privatperson	Ljusdal	Gävleborg	Sverige	Grisslehamn	Stockholm	Sverige	2018-12-06	 2 000,00 kr 	2500	2500	2500,0
+möbelflytt	2018-11-18	paid	Flytt av hem	Flytt	Privatperson	Åsa	Halland	Sverige	Järfälla	Stockholm	Sverige	2018-12-12	 4 800,00 kr 	6000	9000	7500,0
+Transport stor lampa imorn onsdag 21/11	2018-11-20	delivered	Övrigt	Möbler	Privatperson	Hägersten	Stockholm	Sverige	Stockholm	--	Sverige	2018-12-03	 799,20 kr 	999	999	999,0
+Transportera ett stort gediget träskåp	2018-11-21	delivered	Hyllor, Skåp & Garderober	Möbler	Privatperson	Umeå	--	Sverige	Ekerö	--	Sverige	2018-12-02	 2 000,00 kr 	2500	2500	2500,0
+Badrumsskåp från Linköping till Sundsvall/Timrå	2018-11-24	delivered	Hyllor, Skåp & Garderober	Möbler	Privatperson	Linköping	--	Sverige	Sundsvall	--	Sverige	2018-12-27	 2 160,00 kr 	2700	2700	2700,0
+Flytt från Bryssel till Stockholm	2018-11-25	delivered	Flytt av hem	Flytt	Privatperson	Ixelles	ALL	Belgien	Stockholm	--	Sverige	2018-12-13	 7 600,00 kr 	5500	9500	7666,7
+Flytt av piano mm	2018-11-26	delivered	Pianon	Ömtåligt & Antikt	Privatperson	Nykvarn	Stockholm	Sverige	Kungsbacka	Halland	Sverige	2018-12-03	 2 800,00 kr 	3500	3500	3500,0
+Flytta två fåtöljer	2018-11-27	delivered	Övrigt	Båtar	Privatperson	Nybro	Kalmar	Sverige	Nora	Örebro	Sverige	2018-12-06	 2 400,00 kr 	3000	3000	3000,0
+Transport av tjockmatta	2018-11-28	delivered	Övrigt	Övriga objekt & pallar	Privatperson	Malmö	Skåne	Sverige	Norrköping	Östergötland	Sverige	2018-12-01	 800,00 kr 	1000	1000	1000,0
+Mindre flytt Göteborg Stockholm	2018-11-28	delivered	Flytt av hem	Flytt	Privatperson	Säve	Västra Götaland	Sverige	Stockholm	Stockholm	Sverige	2018-12-04	 2 000,00 kr 	2500	2500	2500,0
+Packning oh flytt av hylla	2018-11-28	delivered	Hylla	Möbler	Privatperson	Malmö	Skåne	Sverige	Hägersten	Stockholm	Sverige	2018-12-03	 1 200,00 kr 	1500	1500	1500,0
+Transportera cykel från Stockholm till Blekinge/Skåne	2018-11-29	delivered	Cyklar	Övriga fordon & delar	Privatperson	Stockholm	Stockholm	Sverige	Karlskrona	Blekinge	Sverige	2018-12-10	 1 080,00 kr 	1350	1350	1350,0
+Eilersen Soffa Tub	2018-11-30	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Saltsjö-boo	Stockholm	Sverige	Helsingborg	Skåne	Sverige	2018-12-02	 1 600,00 kr 	2000	2000	2000,0
+Bokhylla	2018-11-30	delivered	Hylla	Möbler	Privatperson	Alingsås	--	Sverige	Västerås	Västmanland	Sverige	2018-12-02	 1 440,00 kr 	1800	1800	1800,0
+Bordslampa, retro	2018-12-02	delivered	Övrigt	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Falun	Dalarna	Sverige	2018-12-11	 600,00 kr 	750	750	750,0
+Frakt av Soffa köpt på blocket	2018-12-02	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Helsingborg	--	Sverige	Göteborg	--	Sverige	2018-12-03	 1 560,00 kr 	1950	1950	1950,0
+Flytt Göteborg	2018-12-02	delivered	Lådor & Kartonger	Allmänna objekt	Privatperson	Amsterdam	ALL	Nederländerna	Mölndal	--	Sverige	2019-01-02	 2 960,00 kr 	3360	3700	3586,7
+Hemkörning av skåp	2018-12-02	delivered	Hyllor, Skåp & Garderober	Möbler	Privatperson	Västerås	Västmanland	Sverige	Åkersberga	--	Sverige	2018-12-03	 1 520,00 kr 	1900	1900	1900,0
+Hylla	2018-12-03	delivered	Hylla	Möbler	Privatperson	Linköping	Östergötland	Sverige	Göteborg	Västra Götaland	Sverige	2018-12-05	 1 160,00 kr 	1450	1450	1450,0
+flytt av soffa	2018-12-03	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2018-12-03	 1 120,00 kr 	1200	1400	1300,0
+lastmaskin	2018-12-03	delivered	Traktorer & Lantbruksmaskiner	Övriga fordon & delar	Företag	Viken	Skåne	Sverige	linköping	--	Sverige	2018-12-05	 9 400,00 kr 	11750	11750	11750,0
+Vitrinskåp	2018-12-03	delivered	Hylla	Möbler	Privatperson	Gävle	Gävleborg	Sverige	Bandhagen	Stockholm	Sverige	2018-12-11	 1 600,00 kr 	1850	2000	1950,0
+Transport av säng	2018-12-03	delivered	Sängar & Sovrum	Möbler	Privatperson	Malmö	Skåne	Sverige	Malmö	Skåne	Sverige	2018-12-03	 800,00 kr 	1000	1000	1000,0
+två soffor	2018-12-03	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Gävle	--	Sverige	Södertälje	Stockholm	Sverige	2018-12-05	 2 320,00 kr 	2000	2900	2450,0
+Allegro matbord, Stolab	2018-12-03	delivered	Bord & Stolar	Möbler	Privatperson	Storvreta	Uppsala	Sverige	Umeå	Västerbotten	Sverige	2018-12-05	 1 200,00 kr 	1500	1500	1500,0
+Sänggavel ek dubbelsäng 180cm	2018-12-03	delivered	Sängar & Sovrum	Möbler	Privatperson	Upplands Väsby	--	Sverige	Katrineholm	--	Sverige	2018-12-06	 1 760,00 kr 	2200	3500	2850,0
+Transport/flytt av 2-sits soffa fr Furniturebox till bostad.	2018-12-03	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Kungens Kurva	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2018-12-03	 960,00 kr 	1200	1200	1200,0
+Stor hyvelbänk	2018-12-03	delivered	Bord & Stolar	Möbler	Företag	Karlskoga	Örebro	Sverige	Tyresö	Stockholm	Sverige	2018-12-03	 1 920,00 kr 	2400	2400	2400,0
+Soffor, bokhylla,sängar mm bortskänkes	2018-12-03	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Göteborg	Västra Götaland	Sverige	Göteborg	Västra Götaland	Sverige	2018-12-06	 1 400,00 kr 	1500	1750	1666,7
+2 Fåtöljer clubmodell	2018-12-04	delivered	Ömtåligt & Antikt	-	Företag	Norrköping	Östergötland	Sverige	Orsa	--	Sverige	2018-12-04	 1 600,00 kr 	2000	2000	2000,0
+IKEA sultan säng 180cm + förvaringsväskor	2018-12-04	delivered	Sängar & Sovrum	Möbler	Privatperson	Stockholm	--	Sverige	Stockholm	--	Sverige	2018-12-04	 1 120,00 kr 	1400	1400	1400,0
+Liberty 3 sits soffa från Mio	2018-12-04	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Göteborg	--	Sverige	Sundbyberg	Stockholm	Sverige	2018-12-06	 1 320,00 kr 	1650	1650	1650,0
+möbler	2018-12-04	delivered	Flytt av hem	Flytt	Privatperson	Bromma	Stockholm	Sverige	Winsen (Aller)	ALL	Tyskland	2018-12-06	 680,00 kr 	8500	8500	8500,0
+Transport av gammal tavla från Järfalla till Lindesberg	2018-12-04	delivered	Övrigt	Ömtåligt & Antikt	Privatperson	Järfälla	--	Sverige	Lindesberg	--	Sverige	2018-12-04	 400,00 kr 	500	500	500,0
+Möbelflytt	2018-12-04	delivered	Bord & Stolar	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Segeltorp	Stockholm	Sverige	2018-12-04	 1 200,00 kr 	1200	1500	1350,0
+Fin tandemcykel	2018-12-04	delivered	Cyklar	Övriga fordon & delar	Företag	Österåker	Stockholm	Sverige	Växjö	Kronoberg	Sverige	2018-12-06	 1 320,00 kr 	1650	1650	1650,0
+Harley Davidson Sportster Nightster 1200	2018-12-05	delivered	Motorcykel	Motorcyklar & Mopeder	Privatperson	Helsingborg	Skåne	Sverige	Ingarö	Stockholm	Sverige	2018-12-05	 2 240,00 kr 	2800	2800	2800,0
+Säng och fåtölj från Vasastan i Sthlm till Norrtälje	2018-12-05	delivered	Sängar & Sovrum	Möbler	Privatperson	Stockholm	--	Sverige	Gräddö	Stockholm	Sverige	2018-12-06	 1 320,00 kr 	1650	1650	1650,0
+Fåtölj Bröderna Andersson	2018-12-05	delivered	Fåtölj	Möbler	Privatperson	Mjölby	Östergötland	Sverige	Onsala	Halland	Sverige	2018-12-06	 1 600,00 kr 	2000	2000	2000,0
+Yamaha Aerox naked 2015	2018-12-05	delivered	Moped	Motorcyklar & Mopeder	Privatperson	Eskilstuna	Södermanland	Sverige	Munkedal	Västra Götaland	Sverige	2018-12-06	 1 760,00 kr 	2200	2200	2200,0
+Volvo Bm 320	2018-12-05	delivered	Traktorer & Lantbruksmaskiner	Övriga fordon & delar	Privatperson	Höör	Skåne	Sverige	Lönashult	Kronoberg	Sverige	2019-01-16	 4 799,20 kr 	5000	7500	5999,7
+Sängtransport	2018-12-05	delivered	Sängar & Sovrum	Möbler	Privatperson	Varberg	Halland	Sverige	Älta	Stockholm	Sverige	2018-12-11	 1 400,00 kr 	1750	1750	1750,0
+Löpband - Cardionics	2018-12-06	delivered	Sport & Fritid	Allmänna objekt	Privatperson	Stockholm	Stockholm	Sverige	Lycksele	Västerbotten	Sverige	2018-12-06	 1 200,00 kr 	1500	1500	1500,0
+Belisningmast	2018-12-06	delivered	Bygg & Trädgård	Allmänna objekt	Privatperson	Örebro	Örebro	Sverige	Luleå	Norrbotten	Sverige	2018-12-12	 8 800,00 kr 	11000	11000	11000,0
+Soffbord glas	2018-12-06	delivered	Bord & Stolar	Möbler	Privatperson	Söderhamn	--	Sverige	Stocksund	--	Sverige	2018-12-07	 960,00 kr 	1200	1200	1200,0
+Bohagsflytt från Stockholm till London	2018-12-07	delivered	Flytt av hem	Flytt	Privatperson	Lidingö	Stockholm	Sverige	Richmond	ALL	Storbritannien	2018-12-20	 1 920,00 kr 	24000	29000	26500,0
+Fint runt matbord söker nytt hem	2018-12-07	delivered	Bord & Stolar	Möbler	Privatperson	Nacka	Stockholm	Sverige	Dalarö	Stockholm	Sverige	2018-12-07	 720,00 kr 	1300	900	1100,0
+Transport av en pall	2018-12-07	delivered	Pallar	Övriga objekt & pallar	Privatperson	Tibro	Västra Götaland	Sverige	Åtvidaberg	--	Sverige	2018-12-07	 2 000,00 kr 	2500	2500	2500,0
+3-sits soffa +2-sits soffa	2018-12-07	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Borlänge	Dalarna	Sverige	Hjo	Västra Götaland	Sverige	2018-12-10	 1 500,00 kr 	1875	1875	1875,0
+Bayliner	2018-12-07	delivered	Båtar & Yachter	Båtar	Privatperson	Mora	Dalarna	Sverige	Rundvik	Västerbotten	Sverige	2018-12-21	 12 500,00 kr 	15625	15625	15625,0
+Flytt utan möbler till Stockholm	2018-12-07	delivered	Lådor & Kartonger	Allmänna objekt	Privatperson	Malmö	Skåne	Sverige	Älvsjö	Stockholm	Sverige	2018-12-11	 1 920,00 kr 	2400	2400	2400,0
+Mio soffa	2018-12-08	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Norrtälje	Stockholm	Sverige	2018-12-08	 1 680,00 kr 	2100	2100	2100,0
+Chesterfieldsoffa och 2 bruna fåtöljer	2018-12-08	delivered	Övrigt	Möbler	Privatperson	Malmö	Skåne	Sverige	Vallentuna	Stockholm	Sverige	2018-12-10	 2 000,00 kr 	2500	2500	2500,0
+Stockholm till Falsterbo två fåtöljer.	2018-12-08	delivered	Fåtölj	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Falsterbo	Skåne	Sverige	2018-12-10	 1 200,00 kr 	1500	1500	1500,0
+Flytt av bord från Stockholm till Malmö	2018-12-09	delivered	Bord & Stolar	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Malmö	Skåne	Sverige	2018-12-10	 1 600,00 kr 	2000	2000	2000,0
+8 Wegner Y-stolar	2018-12-09	paid	Bord & Stolar	Möbler	Privatperson	Galway	ALL	Irland	Hovås	Västra Götaland	Sverige	2018-12-17	 3 360,00 kr 	4200	4200	4200,0
+Spjälsäng/juniorsäng med bäddmått 70 x 140 cm	2018-12-09	delivered	Möbler	-	Privatperson	Vänersborg	--	Sverige	Stockholm	Stockholm	Sverige	2018-12-12	 1 000,00 kr 	1250	1250	1250,0
+Robusta köksbord och stolar	2018-12-09	delivered	Bord & Stolar	Möbler	Privatperson	Uppsala	Uppsala	Sverige	Uppsala	Uppsala	Sverige	2018-12-16	 800,00 kr 	1000	1000	1000,0
+Juniorsäng från Oliver furniture	2018-12-09	delivered	Sängar & Sovrum	Möbler	Privatperson	Malmö	Skåne	Sverige	Vaxholm	Stockholm	Sverige	2018-12-10	 1 320,00 kr 	1650	1650	1650,0
+Hörnsoffa säljes pga flytt	2018-12-09	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	--	Sverige	Stockholm	--	Sverige	2018-12-10	 1 120,00 kr 	1150	2000	1512,5
+Fåtölj	2018-12-09	delivered	Fåtölj	Möbler	Privatperson	Valbo	Gävleborg	Sverige	Alvesta	Kronoberg	Sverige	2018-12-10	 2 000,00 kr 	2500	2500	2500,0
+Sammetssoffa Watford Deluxe blå	2018-12-09	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Sundsvall	Västernorrland	Sverige	Onsala	Halland	Sverige	2018-12-11	 2 000,00 kr 	2500	2500	2500,0
+NK Triva fåtölj	2018-12-10	delivered	Bord & Stolar	Möbler	Företag	Västerås	Västmanland	Sverige	Göteborg	Västra Götaland	Sverige	2018-12-11	 1 200,00 kr 	1500	1500	1500,0
+Soffa	2018-12-10	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	--	Sverige	Stocksund	--	Sverige	2018-12-10	 1 300,00 kr 	1500	1625	1593,8
+Transportera säng	2018-12-10	delivered	Sängar & Sovrum	Möbler	Privatperson	Hörby	Skåne	Sverige	Danderyd	Stockholm	Sverige	2018-12-10	 1 200,00 kr 	1500	1500	1500,0
+Flytta soffa	2018-12-11	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Västra Frölunda	Västra Götaland	Sverige	Göteborg	Västra Götaland	Sverige	2018-12-12	 800,00 kr 	1000	1450	1225,0
+nermonterat sängskåp inkl 160 cm säng	2018-12-11	delivered	Sängar & Sovrum	Möbler	Privatperson	Gothenburg	Västra Götaland	Sverige	Järvsö	Gävleborg	Sverige	2018-12-18	 2 660,00 kr 	3325	3325	3325,0
+Fin byrå i björk, Malm tre lådor	2018-12-11	delivered	Hylla	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2018-12-11	 640,00 kr 	782	800	791,0
+Bandsåg för trä	2018-12-12	delivered	Övrigt	Övriga objekt & pallar	Privatperson	Upplands Väsby	Stockholm	Sverige	Sävedalen	Västra Götaland	Sverige	2018-12-12	 2 000,00 kr 	2500	2500	2500,0
+Lådcykel	2018-12-12	delivered	Cyklar	Övriga fordon & delar	Privatperson	Falkenberg	Halland	Sverige	Örebro	Örebro	Sverige	2018-12-14	 1 440,00 kr 	1800	2500	2100,0
+Godin Souveraine gasspis 70 cm	2018-12-12	delivered	Övrigt	Möbler	Privatperson	Malmö	--	Sverige	Stockholm	Stockholm	Sverige	2018-12-12	 1 500,00 kr 	1875	1875	1875,0
+Köpenhamn-Stockholm	2018-12-12	paid	Flytt av hem	Flytt	Privatperson	København	ALL	Danmark	Stockholm	Stockholm	Sverige	2018-12-23	 600,00 kr 	10000	7500	11250,0
+Tallrikshylla	2018-12-12	delivered	Ömtåligt & Antikt	-	Privatperson	Malmö	Skåne	Sverige	Sävedalen	Västra Götaland	Sverige	2018-12-15	 640,00 kr 	800	800	800,0
+Ljusgrå 3-sitssoffa med schäslong	2018-12-12	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Bagarmossen	Stockholm	Sverige	2018-12-12	 1 100,00 kr 	1375	1375	1375,0
+transport Nässjö till Malmö	2018-12-13	delivered	Maskiner & Tung utrustning	Företagsobjekt	Företag	Nässjö	Kalmar	Sverige	Malmö	Skåne	Sverige	2018-12-16	 2 000,00 kr 	2500	2500	2500,0
+Klassiska lampor	2018-12-13	delivered	Övrigt	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Jönköping	--	Sverige	2018-12-13	 1 000,00 kr 	1250	1250	1250,0
+Subaru forester 5/100 17&quot;	2018-12-13	delivered	Fordonstillbehör & Delar	Övriga fordon & delar	Privatperson	Ljungby	Kronoberg	Sverige	Lidingö	Stockholm	Sverige	2018-12-17	 720,00 kr 	900	900	900,0
+Skrivbord i engelskt stil	2018-12-13	delivered	Bord & Stolar	Möbler	Privatperson	Solna	Stockholm	Sverige	Arboga	Västmanland	Sverige	2018-12-13	 1 400,00 kr 	1750	2188	1969,0
+frakt/transport av möbel	2018-12-13	delivered	Hyllor, Skåp & Garderober	Möbler	Privatperson	Ockelbo	Gävleborg	Sverige	Klippan	Skåne	Sverige	2018-12-18	 1 500,00 kr 	1875	1875	1875,0
+Sängflytt	2018-12-13	delivered	Flytt av hem	Flytt	Privatperson	Stockholm	Stockholm	Sverige	Limhamn	Skåne	Sverige	2018-12-14	 1 500,00 kr 	1875	2500	2187,5
+Bord med stolar	2018-12-13	delivered	Bord & Stolar	Möbler	Privatperson	Gävle	--	Sverige	Degerfors	--	Sverige	2018-12-15	 1 600,00 kr 	1875	2000	1937,5
+Hämta och lämna barnstol	2018-12-14	delivered	Bord & Stolar	Möbler	Privatperson	Sundbyberg	Stockholm	Sverige	Örebro	Örebro	Sverige	2018-12-17	 899,20 kr 	1124	1250	1187,0
+Transport	2018-12-14	paid	Pallar	Övriga objekt & pallar	Privatperson	Tandsbyn	--	Sverige	Mariestad	Västra Götaland	Sverige	2018-12-18	 1 400,00 kr 	1750	1750	1750,0
+Husvagnsflytt	2018-12-15	delivered	Husvagnar & Husbilar	Övriga fordon & delar	Privatperson	Umeå	Västerbotten	Sverige	Gammelgarn	Gotland	Sverige	2018-12-17	 3 500,00 kr 	4375	4375	4375,0
+Transport av 3 mattor, 4 tavlor	2018-12-15	delivered	Mattor	Möbler	Privatperson	Stockholm	--	Sverige	Torrevieja	ALL	Spanien	2018-12-21	 2 500,00 kr 	2500	3750	3125,0
+Soffa i nyskick	2018-12-16	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Solna	Stockholm	Sverige	2018-12-16	 999,20 kr 	1249	1250	1249,5
+Superellips Valnöt	2018-12-16	delivered	Bord & Stolar	Möbler	Privatperson	Malmö	Skåne	Sverige	Stockholm	Stockholm	Sverige	2018-12-17	 880,00 kr 	1100	1500	1180,0
+Flytt ut av soffa, soffbord ,4 stolar	2018-12-16	delivered	Övrigt	Möbler	Privatperson	Skara	Västra Götaland	Sverige	Arnemark	Norrbotten	Sverige	2018-12-19	 3 200,00 kr 	4000	4000	4000,0
+Konferensstolar Snurrstolar Matstolar	2018-12-17	delivered	Bord & Stolar	Möbler	Företag	Huddinge	--	Sverige	Malmö	--	Sverige	2018-12-19	 2 000,00 kr 	2188	2500	2344,0
+Transport	2018-12-17	delivered	Fåtölj	Möbler	Privatperson	Solna	Stockholm	Sverige	Tierp	Uppsala	Sverige	2018-12-18	 1 000,00 kr 	1250	1250	1250,0
+Transport av bord	2018-12-17	delivered	Bord & Stolar	Möbler	Privatperson	Lidköping	Västra Götaland	Sverige	Stockholm	Stockholm	Sverige	2018-12-18	 1 760,00 kr 	2200	2200	2200,0
+Modulsoffa	2018-12-17	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Arlöv	Skåne	Sverige	Ängelholm	Skåne	Sverige	2018-12-17	 1 300,00 kr 	1625	1625	1625,0
+Transport av Velux takfönster. Förpackat i originalkartong	2018-12-18	delivered	Bygg & Trädgård	Allmänna objekt	Privatperson	Eskilstuna	Södermanland	Sverige	Ystad	Skåne	Sverige	2018-12-18	 1 200,00 kr 	1500	1500	1500,0
+Flytt af soffa	2018-12-18	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Limhamn	Skåne	Sverige	Bunkeflostrand	Skåne	Sverige	2018-12-18	 600,00 kr 	750	750	750,0
+Ikeas Gagnet fåtölj	2018-12-18	delivered	Fåtölj	Möbler	Privatperson	Göteborg	--	Sverige	Solna	Stockholm	Sverige	2018-12-20	 1 200,00 kr 	1500	1500	1500,0
+Soffa 3+2 sitsig	2018-12-19	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Södertälje	Stockholm	Sverige	Fjälkinge	Skåne	Sverige	2018-12-21	 3 200,00 kr 	4000	4000	4000,0
+Flytta en pilates reformer	2018-12-19	delivered	Sport & Fritid	Allmänna objekt	Privatperson	Malmö	--	Sverige	Limhamn	--	Sverige	2018-12-20	 700,00 kr 	1500	875	1187,5
+Transport av skrivbordsstol	2018-12-19	delivered	Bord & Stolar	Möbler	Privatperson	Landskrona	Skåne	Sverige	Arboga	Västmanland	Sverige	2018-12-20	 1 400,00 kr 	1750	1750	1750,0
+Transport av soffa + karmstol	2018-12-19	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Uppsala	Uppsala	Sverige	Sundsvall	Västernorrland	Sverige	2018-12-23	 1 600,00 kr 	2000	2500	2291,7
+Hämtning och lämning av 3sits soffa	2018-12-21	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Hägersten	--	Sverige	Stockholm	--	Sverige	2018-12-24	 1 040,00 kr 	1300	1300	1300,0
+Superfin vit Asplund byrå SNÖ A3	2018-12-21	delivered	Hylla	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2018-12-22	 720,00 kr 	900	900	900,0
+Transport av 2st MC	2018-12-24	delivered	Motorcykel	Motorcyklar & Mopeder	Privatperson	Malmö	Skåne	Sverige	Fjärås	Halland	Sverige	2018-12-28	 2 500,00 kr 	3125	3750	3458,3
+Yamaha B1 Silent	2018-12-25	delivered	Pianon	Ömtåligt & Antikt	Privatperson	Piteå	Norrbotten	Sverige	Ängelholm	Skåne	Sverige	2019-01-09	 3 600,00 kr 	4500	4500	4500,0
+Robust byrå/ bänk i ek	2018-12-25	delivered	Hylla	Möbler	Privatperson	Bromma	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2018-12-25	 800,00 kr 	1000	1000	1000,0
+Mio Bunk Bed dismantle and transport	2018-12-25	delivered	Sängar & Sovrum	Möbler	Privatperson	Sollentuna	Stockholm	Sverige	Stockholm	--	Sverige	2018-12-27	 1 200,00 kr 	1500	1500	1500,0
+IKEA KOLDING soffa Erik Wörtz	2018-12-26	delivered	Fåtölj	Möbler	Privatperson	Kungsbacka	Halland	Sverige	Stockholm	Stockholm	Sverige	2018-12-28	 700,00 kr 	1250	875	1062,5
+Gedigen bokhylla i indisk stil	2018-12-26	delivered	Hylla	Möbler	Privatperson	Bromma	Stockholm	Sverige	Älvsjö	Stockholm	Sverige	2018-12-29	 1 600,00 kr 	2000	2250	2125,0
+Matbord	2018-12-26	delivered	Bord & Stolar	Möbler	Privatperson	Tungelsta	Stockholm	Sverige	Malmö	Skåne	Sverige	2018-12-29	 1 000,00 kr 	1250	1250	1250,0
+Hemmagym	2018-12-27	delivered	Sport & Fritid	Allmänna objekt	Privatperson	Örebro	Örebro	Sverige	Ingarö	Stockholm	Sverige	2018-12-27	 1 200,00 kr 	1500	1500	1500,0
+Volvo BM 650	2018-12-27	delivered	Traktorer & Lantbruksmaskiner	Övriga fordon & delar	Privatperson	Svedala	--	Sverige	Tyresö	--	Sverige	2019-01-11	 6 000,00 kr 	15625	9000	9906,3
+Hämta säng från butik, leverera till bostad	2018-12-27	delivered	Sängar & Sovrum	Möbler	Privatperson	Malmö	Skåne	Sverige	Malmö	Skåne	Sverige	2018-12-27	 1 000,00 kr 	1250	1250	1250,0
+Bäddsoffa	2018-12-28	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	--	Sverige	Stockholm	--	Sverige	2018-12-31	 1 200,00 kr 	1500	2250	1875,0
+UTV CFMOTO 800	2018-12-28	delivered	Terrängfordon	Övriga fordon & delar	Företag	Mora	Dalarna	Sverige	Borlänge	Dalarna	Sverige	2018-12-30	 2 500,00 kr 	3125	3125	3125,0
+Matbord Norden från Ikea	2018-12-30	delivered	Bord & Stolar	Möbler	Privatperson	Helsingborg	Skåne	Sverige	Limhamn	Skåne	Sverige	2019-01-01	 1 000,00 kr 	1125	1250	1187,5
+IKEA Klippan Sofa transport Malmö - Lund	2018-12-30	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Malmö	Skåne	Sverige	Lund	Skåne	Sverige	2018-12-31	 650,40 kr 	1000	813	906,5
+Klädskåp/Linneskåp med hyllplan	2018-12-30	delivered	Hylla	Möbler	Privatperson	Nacka	Stockholm	Sverige	Tyresö	Stockholm	Sverige	2019-01-01	 1 000,00 kr 	1250	1500	1333,3
+Sängstomme 180 cm	2018-12-30	delivered	Sängar & Sovrum	Möbler	Privatperson	Örebro	Örebro	Sverige	Göteborg	Västra Götaland	Sverige	2018-12-31	 1 800,00 kr 	2250	2250	2250,0
+Skrivbord IKEA Galant Hörnskrivbord 3 st	2018-12-30	delivered	Bord & Stolar	Möbler	Privatperson	Stockholm	--	Sverige	Stockholm	--	Sverige	2018-12-30	 800,00 kr 	1000	1500	1250,0
+Howard fåtölj med fotpall från MIO	2018-12-30	delivered	Fåtölj	Möbler	Privatperson	Solna	Stockholm	Sverige	Skövde	Västra Götaland	Sverige	2018-12-31	 1 000,00 kr 	1250	1250	1250,0
+Transport av bord	2018-12-31	delivered	Bord & Stolar	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Malmö	Skåne	Sverige	2019-01-04	 1 500,00 kr 	1875	1875	1875,0
+Transport av Fåtölj från Sundbyberg till Falkenberg	2018-12-31	delivered	Fåtölj	Möbler	Privatperson	Sundbyberg	Stockholm	Sverige	Falkenberg	Halland	Sverige	2019-01-02	 880,00 kr 	1100	1250	1175,0
+Rottingmöbler/korgmöbler	2019-01-01	delivered	Bord & Stolar	Möbler	Privatperson	Motala	Östergötland	Sverige	Värmdö	Stockholm	Sverige	2019-01-04	 1 520,00 kr 	1900	2625	2341,7
+Möbeltransport - ett skrivbord	2019-01-01	delivered	Kontorsutrustning & Material	Företagsobjekt	Företag	Everöd	Skåne	Sverige	Vaxholm	Stockholm	Sverige	2019-01-14	 2 000,00 kr 	2500	2500	2500,0
+Vit äldre bokhylla	2019-01-01	delivered	Hylla	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Vaxholm	Stockholm	Sverige	2019-01-02	 1 800,00 kr 	2250	2250	2250,0
+2 pallar med tegelstenar	2019-01-01	delivered	Pallar	Övriga objekt & pallar	Privatperson	Malmö	Skåne	Sverige	Uppsala	Uppsala	Sverige	2019-01-04	 2 707,20 kr 	3384	4063	3553,8
+Braskamin HELT NY	2019-01-02	delivered	Bygg & Trädgård	Allmänna objekt	Privatperson	Nacka	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-01-03	 640,00 kr 	1200	800	1000,0
+Soffa upphämtning	2019-01-02	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Uppsala	Uppsala	Sverige	Billdal	Västra Götaland	Sverige	2019-01-02	 1 000,00 kr 	1250	1800	1525,0
+Fyra stolar	2019-01-02	delivered	Bord & Stolar	Möbler	Privatperson	Malmö	--	Sverige	Stockholm	--	Sverige	2019-01-02	 1 000,00 kr 	1250	1250	1250,0
+Skinnsoffa som ny, från SITS Quattro	2019-01-02	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Vällingby	--	Sverige	Bromma	--	Sverige	2019-01-02	 2 000,00 kr 	2500	2500	2500,0
+Hyllor	2019-01-02	delivered	Pallar	Övriga objekt & pallar	Företag	Nässjö	Kalmar	Sverige	Ystad	Skåne	Sverige	2019-01-02	 2 000,00 kr 	2500	2500	2500,0
+Dagbädd - Brimnes 80x200	2019-01-02	delivered	Sängar & Sovrum	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Spånga	Stockholm	Sverige	2019-01-02	 1 200,00 kr 	1375	1500	1437,5
+Frakt matbord 20090	2019-01-02	delivered	Bord & Stolar	Möbler	Privatperson	Västra Frölunda	Västra Götaland	Sverige	Stockholm	Stockholm	Sverige	2019-01-04	 1 340,00 kr 	1675	1675	1675,0
+Flytt av soffa	2019-01-02	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	--	Sverige	Stockholm	--	Sverige	2019-01-14	 999,20 kr 	1249	1249	1249,0
+Spis	2019-01-03	delivered	Vitvaror	Allmänna objekt	Privatperson	Göteborg	Västra Götaland	Sverige	Hede	Jämtland	Sverige	2019-01-11	 1 750,40 kr 	2188	2188	2188,0
+Fåtölj och byrå	2019-01-03	delivered	Fåtölj	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Malmö	Skåne	Sverige	2019-01-03	 1 500,00 kr 	1875	1875	1875,0
+Engelskt soffbord	2019-01-03	delivered	Övrigt	Möbler	Privatperson	Haverdal	Halland	Sverige	Leksand	Dalarna	Sverige	2019-01-03	 1 800,00 kr 	2250	2250	2250,0
+Transport Emballerad och Ny Soffa	2019-01-03	paid	Soffor & Fåtöljer	Möbler	Privatperson	Sarcelles	ALL	Frankrike	Svenljunga	--	Sverige	2019-02-15	 3 430,40 kr 	4288	6250	4865,2
+Rokoko soffa fåtölj med bord.	2019-01-03	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Båstad	--	Sverige	Malmö	--	Sverige	2019-01-13	 1 200,00 kr 	1500	2000	1687,5
+Fåtölj från Lidingö till Göteborg Kungsbacka	2019-01-03	delivered	Fåtölj	Möbler	Privatperson	Lidingö	Stockholm	Sverige	Kullavik	Halland	Sverige	2019-01-03	 1 200,00 kr 	1500	1500	1500,0
+Irma sideboard	2019-01-03	delivered	Hylla	Möbler	Privatperson	Sollentuna	Stockholm	Sverige	Västra Frölunda	Västra Götaland	Sverige	2019-01-12	 1 600,00 kr 	2000	5000	2666,7
+6St Eames DSW stolar i glasfiber	2019-01-03	delivered	Bord & Stolar	Möbler	Privatperson	Göteborg	--	Sverige	Uppsala	Uppsala	Sverige	2019-01-06	 1 200,00 kr 	1500	1500	1500,0
+Ekbord med 6 stolar och buffé ek	2019-01-04	delivered	Bord & Stolar	Möbler	Privatperson	Sundbyberg	Stockholm	Sverige	Solna	Stockholm	Sverige	2019-01-04	 1 320,00 kr 	1650	1875	1758,3
+Transport till Italien	2019-01-04	paid	Flytt av hem	Flytt	Privatperson	Stockholm	Stockholm	Sverige	Firenze	ALL	Italien	2019-01-10	 540,00 kr 	6750	8000	7166,7
+Exklusivt handgjort rustikt barbord m stolar	2019-01-04	delivered	Bord & Stolar	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Åby	Östergötland	Sverige	2019-01-05	 2 099,20 kr 	2624	2624	2624,0
+Transport	2019-01-04	delivered	Bord & Stolar	Möbler	Privatperson	Lund	Skåne	Sverige	Sollentuna	Stockholm	Sverige	2019-01-06	 1 500,00 kr 	1875	1875	1875,0
+Kökssoffa och skåp från Stockholm till Malmö	2019-01-04	delivered	Hyllor, Skåp & Garderober	Möbler	Privatperson	Tyresö	Stockholm	Sverige	Malmö	Skåne	Sverige	2019-01-06	 1 700,00 kr 	2125	2125	2125,0
+Hästens sängar 90 x 200	2019-01-06	delivered	Sängar & Sovrum	Möbler	Privatperson	Flen	--	Sverige	Stockholm	--	Sverige	2019-01-08	 1 600,00 kr 	2000	2000	2000,0
+Leverans av 2-sits soffa från Bromma till Uppsala	2019-01-06	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Bromma	Stockholm	Sverige	Uppsala	Uppsala	Sverige	2019-01-07	 800,00 kr 	1000	1250	1125,0
+Unik soffa	2019-01-06	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Barsebäck	Skåne	Sverige	2019-01-07	 1 500,00 kr 	1750	1875	1812,5
+träsoffa samt 2 stolar	2019-01-06	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Bromma	Stockholm	Sverige	Halmstad	Halland	Sverige	2019-01-08	 1 400,00 kr 	1750	1875	1812,5
+Bokhylla och vitrinskåp	2019-01-06	delivered	Hylla	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-01-07	 1 199,20 kr 	1499	1499	1499,0
+Sideboard teak 50-60 tal retro	2019-01-06	delivered	Hylla	Möbler	Privatperson	Värmdö	Stockholm	Sverige	Umeå	Västerbotten	Sverige	2019-01-07	 1 500,00 kr 	1875	1875	1875,0
+Matta ChhatwalJonsson. Nypris 12.500kr	2019-01-07	delivered	Mattor	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Västra Frölunda	Västra Götaland	Sverige	2019-01-08	 1 000,00 kr 	1250	1250	1250,0
+Frakt av soffa från Stockholm till Falkenberg	2019-01-07	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Falkenberg	Halland	Sverige	2019-01-09	 1 500,00 kr 	1875	2000	1937,5
+Bänksvarv från Bålsta till Lund	2019-01-07	delivered	Byggtillbehör & Maskiner	Övriga fordon & delar	Privatperson	Bålsta	Uppsala	Sverige	Hjärup	Skåne	Sverige	2019-01-07	 2 000,00 kr 	2500	2500	2500,0
+Flytta säng	2019-01-07	delivered	Sängar & Sovrum	Möbler	Privatperson	Västerhaninge	Stockholm	Sverige	Göteborg	--	Sverige	2019-01-07	 1 840,00 kr 	2000	2500	2266,7
+Köksbänk och skap, kyl o frys, diskmaskin mm	2019-01-07	delivered	Bygg & Trädgård	Allmänna objekt	Privatperson	Malmö	Skåne	Sverige	Helsingborg	Skåne	Sverige	2019-01-07	 1 200,00 kr 	1500	1500	1500,0
+Köksfläkt	2019-01-07	delivered	Övrigt	Övriga objekt & pallar	Privatperson	Kungsängen	Stockholm	Sverige	Råå	Skåne	Sverige	2019-01-07	 1 000,00 kr 	1125	1250	1187,5
+Hans J. Wegner soffa AP 34/4 - mycket ovanlig	2019-01-07	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Malmö	Skåne	Sverige	Ingarö	Stockholm	Sverige	2019-01-08	 2 500,00 kr 	3125	3125	3125,0
+Bäddsoffa Ikea Ektorp	2019-01-07	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Danderyd	Stockholm	Sverige	Järna	Stockholm	Sverige	2019-01-11	 2 000,00 kr 	1250	2500	1733,0
+Mercedes VW Audi Porsche 19 20 22 tum	2019-01-08	delivered	Fordonstillbehör & Delar	Övriga fordon & delar	Privatperson	Skogås	Stockholm	Sverige	Kungsbacka	Halland	Sverige	2019-01-09	 800,00 kr 	1000	1250	1125,0
+Unik Hästen Säng	2019-01-08	delivered	Sängar & Sovrum	Möbler	Privatperson	Örnsköldsvik	Västernorrland	Sverige	Åstorp	Skåne	Sverige	2019-01-09	 2 800,00 kr 	3500	3500	3500,0
+Flytt Berlin - Stockholm	2019-01-08	paid	Flytt av hem	Flytt	Privatperson	Berlin	ALL	Tyskland	Solna	Stockholm	Sverige	2019-01-13	 4 700,00 kr 	5875	6500	6187,5
+Två skåp	2019-01-08	paid	Hyllor, Skåp & Garderober	Möbler	Privatperson	Gnosjö	Kalmar	Sverige	Upplands Väsby	Stockholm	Sverige	2019-02-12	 2 000,00 kr 	2500	2500	2500,0
+Asplund Bermuda Matbord	2019-01-09	delivered	Bord & Stolar	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Luleå	Norrbotten	Sverige	2019-01-10	 1 500,00 kr 	1875	1875	1875,0
+Transport skänk	2019-01-09	delivered	Hyllor, Skåp & Garderober	Möbler	Privatperson	Hudiksvall	Gävleborg	Sverige	Lidingö	Stockholm	Sverige	2019-01-09	 1 500,00 kr 	1875	1875	1875,0
+Sym shark 50	2019-01-09	delivered	Moped	Motorcyklar & Mopeder	Privatperson	Hofors	Gävleborg	Sverige	Niemisel	Norrbotten	Sverige	2019-01-10	 2 000,00 kr 	2500	2500	2500,0
+Ikeas Ektorp 2-sitssoffa	2019-01-09	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Botkyrka	Stockholm	Sverige	Vårby	Stockholm	Sverige	2019-01-10	 1 385,60 kr 	1732	1732	1732,0
+Transport	2019-01-09	paid	Övrigt	Möbler	Privatperson	Deerpark Industrial Estate	ALL	Irland	Kävlinge	Skåne	Sverige	2019-01-15	 920,00 kr 	1150	1150	1150,0
+Kristallkrona	2019-01-09	delivered	Övrigt	Möbler	Privatperson	Haninge	--	Sverige	Malmö	--	Sverige	2019-01-11	 800,00 kr 	1000	1500	1250,0
+Yamaha	2019-01-09	delivered	Moped	Motorcyklar & Mopeder	Privatperson	Huddinge	Stockholm	Sverige	Själevad	Västernorrland	Sverige	2019-01-11	 1 800,00 kr 	2250	2625	2458,3
+Flytt Östermalm till Vasastan	2019-01-09	delivered	Flytt av hem	Flytt	Privatperson	Stockholm	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-01-25	 1 200,00 kr 	1500	1500	1500,0
+Bod	2019-01-10	delivered	Bygg & Trädgård	Allmänna objekt	Privatperson	Nyköping	Södermanland	Sverige	Berga	Jönköping	Sverige	2019-01-16	 13 887,20 kr 	17359	17359	17359,0
+Flytta möbler och saker från ett kontor till ett annat	2019-01-10	delivered	Kontorsutrustning & Material	Företagsobjekt	Företag	Stockholm	Stockholm	Sverige	Järna	Stockholm	Sverige	2019-01-14	 1 999,20 kr 	2499	4000	3249,5
+Transport motorcykel 125 cc	2019-01-10	delivered	Motorcykel	Motorcyklar & Mopeder	Privatperson	Edsbyn	Gävleborg	Sverige	Gothenburg	Västra Götaland	Sverige	2019-01-11	 2 000,00 kr 	2500	2500	2500,0
+JAB mattor	2019-01-11	delivered	Mattor	Möbler	Privatperson	Österåker	Stockholm	Sverige	Bromma	Stockholm	Sverige	2019-01-11	 1 200,00 kr 	1500	900	1200,0
+Karin fåtöljer	2019-01-11	delivered	Fåtölj	Möbler	Privatperson	Lidingö	Stockholm	Sverige	Ängelholm	Skåne	Sverige	2019-01-11	 1 200,00 kr 	1500	1750	1625,0
+HAY Stolar - About a chair	2019-01-11	delivered	Bord & Stolar	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Rydebäck	Skåne	Sverige	2019-01-11	 1 500,00 kr 	1875	1875	1875,0
+Solex	2019-01-11	delivered	Moped	Motorcyklar & Mopeder	Privatperson	Härryda	--	Sverige	Kastrup	ALL	Danmark	2019-01-14	 1 000,00 kr 	1250	1500	1375,0
+Flytt av enkelsäng	2019-01-11	delivered	Sängar & Sovrum	Möbler	Privatperson	Lund	Skåne	Sverige	Stockholm	Stockholm	Sverige	2019-01-15	 1 000,00 kr 	1250	1250	1250,0
+transport av ställbar säng elite 105x200 cm	2019-01-11	delivered	Sängar & Sovrum	Möbler	Privatperson	Lidingö	Stockholm	Sverige	Sundbyberg	Stockholm	Sverige	2019-01-12	 1 000,00 kr 	1000	1944	1401,4
+Flyttlådor	2019-01-12	delivered	Flytt av hem	Flytt	Privatperson	Stockholm	Stockholm	Sverige	Kristianstad	Skåne	Sverige	2019-01-12	 250,00 kr 	3125	4375	3541,7
+Flyttlådor mm från Sollentuna till Schweiz	2019-01-13	delivered	Lådor & Kartonger	Allmänna objekt	Privatperson	Sollentuna	Stockholm	Sverige	Adliswil	ALL	Schweiz	2019-01-16	 13 000,00 kr 	13000	13000	13000,0
+Flytt av 8 kartonger	2019-01-13	delivered	Lådor & Kartonger	Allmänna objekt	Privatperson	Stockholm	--	Sverige	Göteborg	--	Sverige	2019-01-20	 1 400,00 kr 	1750	5749	3531,0
+Hämtning och hemkörning av chiffonjé	2019-01-13	delivered	Hyllor, Skåp & Garderober	Möbler	Privatperson	Västerås	Västmanland	Sverige	Bro	--	Sverige	2019-01-14	 1 725,60 kr 	2000	3125	2445,5
+Moderna bord i lyxig valnöt	2019-01-14	delivered	Bord & Stolar	Möbler	Privatperson	Jönköping	Kalmar	Sverige	Saltsjö boo	Stockholm	Sverige	2019-01-14	 1 280,00 kr 	1600	1600	1600,0
+TON karmstol no 30 IKEA Nils Brickbord	2019-01-14	delivered	Bord & Stolar	Möbler	Privatperson	Nacka	Stockholm	Sverige	Västerås	Västmanland	Sverige	2019-01-14	 1 200,00 kr 	1500	1500	1500,0
+Vinkyl	2019-01-14	delivered	Vitvaror	Allmänna objekt	Privatperson	Bromma	Stockholm	Sverige	Åsa	Halland	Sverige	2019-01-14	 1 480,00 kr 	1850	1850	1850,0
+Flytt av säng	2019-01-14	delivered	Sängar & Sovrum	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-01-25	 1 200,00 kr 	1438	1500	1469,0
+Höj- och sänkbart skrivbord IKEA	2019-01-14	delivered	Bord & Stolar	Möbler	Privatperson	Norrtälje	Stockholm	Sverige	Värmdö	Stockholm	Sverige	2019-01-15	 1 200,00 kr 	1500	2874	2009,8
+Ståskrivbord arkitektritat	2019-01-14	paid	Bord & Stolar	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Ätran	Halland	Sverige	2019-01-25	 1 000,00 kr 	1250	1250	1250,0
+Bokhylla antikbehandlad Mio	2019-01-15	delivered	Hylla	Möbler	Privatperson	Stockholm	--	Sverige	Bandhagen	--	Sverige	2019-01-16	 1 425,60 kr 	1782	1782	1782,0
+Hyllsystem, hylla	2019-01-15	delivered	Hylla	Möbler	Privatperson	Göteborg	--	Sverige	Stockholm	Stockholm	Sverige	2019-01-18	 1 400,00 kr 	1750	1750	1750,0
+Flytt av säng 120	2019-01-15	delivered	Sängar & Sovrum	Möbler	Privatperson	Gothenburg	Västra Götaland	Sverige	Hisings Backa	Västra Götaland	Sverige	2019-01-16	 500,00 kr 	625	625	625,0
+Matbord 180 x 90 cm	2019-01-15	delivered	Övrigt	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-01-16	 999,20 kr 	1249	900	1133,0
+Flytta 1,20 säng från Hägerstensåsen till Odenplan	2019-01-16	delivered	Flytt av hem	Flytt	Privatperson	Hägersten	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-01-23	 800,00 kr 	1000	2500	1791,7
+Transport	2019-01-16	paid	Skrivbord & Skrivbordsstolar	Möbler	Privatperson	Lund	Skåne	Sverige	Karlstad	Värmland	Sverige	2019-01-24	 2 000,00 kr 	2500	2500	2500,0
+Mademoiselle Chair by Ilmari Tapiovaara 1961	2019-01-16	delivered	Övrigt	Möbler	Privatperson	Solna	Stockholm	Sverige	Malmö	Skåne	Sverige	2019-01-17	 1 000,00 kr 	1250	1250	1250,0
+Soffa 3-sits	2019-01-16	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	--	Sverige	Stockholm	--	Sverige	2019-01-17	 1 080,00 kr 	1313	1375	1351,4
+Transportera fåtölj från säljare i Sthlm till mig i Göt	2019-01-16	delivered	Fåtölj	Möbler	Privatperson	Hägersten	Stockholm	Sverige	Göteborg	Västra Götaland	Sverige	2019-01-17	 1 500,00 kr 	1875	1875	1875,0
+Fin skänk i massiv ek	2019-01-17	delivered	Hylla	Möbler	Privatperson	Lerum	Västra Götaland	Sverige	Huddinge	Stockholm	Sverige	2019-01-20	 1 940,00 kr 	2425	2425	2425,0
+transport av innerdörr	2019-01-17	delivered	Övrigt	Allmänna objekt	Privatperson	Johanneshov	Stockholm	Sverige	Enskede	Stockholm	Sverige	2019-01-17	 720,00 kr 	1249	900	1132,7
+Transport av hemvårdsäng	2019-01-17	delivered	Sängar & Sovrum	Möbler	Privatperson	Bålsta	Uppsala	Sverige	Borås	Västra Götaland	Sverige	2019-01-21	 2 000,00 kr 	2500	5749	3716,3
+Flytt	2019-01-17	paid	Flytt av hem	Flytt	Privatperson	Malmö	Skåne	Sverige	Göteborg	Västra Götaland	Sverige	2019-02-20	 2 000,00 kr 	2500	2500	2500,0
+Pardörr.	2019-01-18	delivered	Bygg & Trädgård	Allmänna objekt	Privatperson	Alingsås	--	Sverige	Stockholm	Stockholm	Sverige	2019-01-19	 2 320,00 kr 	2900	2900	2900,0
+Skicka sänggavel inrikes	2019-01-18	delivered	Sängar & Sovrum	Möbler	Privatperson	Malmö	Skåne	Sverige	Täby	Stockholm	Sverige	2019-01-21	 1 200,00 kr 	1500	1500	1500,0
+Soffapall från Posh Living - FYND	2019-01-18	delivered	Soffor & Fåtöljer	Möbler	Företag	Värmdö	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-01-21	 1 320,00 kr 	1624	1875	1755,8
+Flytt från Göteborg till Uppsala	2019-01-19	paid	Flytt av hem	Flytt	Privatperson	Göteborg	Västra Götaland	Sverige	Uppsala	Uppsala	Sverige	2019-01-19	 4 000,00 kr 	5000	8125	6562,5
+Flytta på en tung enhet	2019-01-19	delivered	Övrigt	Möbler	Företag	Solna	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-01-20	 1 499,20 kr 	1874	1874	1874,0
+	2019-01-19	delivered	Traktorer & Lantbruksmaskiner	Övriga fordon & delar	Privatperson	Kalix	Norrbotten	Sverige	Smedjebacken	Dalarna	Sverige	2019-01-21	 18 500,00 kr 	23125	23125	23125,0
+Moped flytt Stockholm	2019-01-19	delivered	Moped	Motorcyklar & Mopeder	Privatperson	Stockholm	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-01-20	 1 080,00 kr 	1350	2500	1742,4
+Sekretär i teak	2019-01-20	delivered	Hylla	Möbler	Privatperson	Göteborg	--	Sverige	Västerås	Västmanland	Sverige	2019-01-20	 1 120,00 kr 	13	1800	1178,3
+Frakt Ludvika till Kalix	2019-01-20	delivered	Övrigt	Allmänna objekt	Privatperson	Ludvika	Dalarna	Sverige	Kalix	Norrbotten	Sverige	2019-01-21	 2 000,00 kr 	2500	2500	2500,0
+Transport soffa Göteborg-Stockholm	2019-01-21	paid	Soffor & Fåtöljer	Möbler	Privatperson	Mölndal	Västra Götaland	Sverige	Solna	Stockholm	Sverige	2019-01-29	 1 420,00 kr 	1775	1775	1775,0
+Transport av spegel	2019-01-21	delivered	Övrigt	Allmänna objekt	Privatperson	Bromma	Stockholm	Sverige	Bromma	Stockholm	Sverige	2019-01-21	 1 000,00 kr 	1250	1250	1250,0
+Flytta 40 A4 kartonger från jonvägen 4 till swedenborgsgat	2019-01-21	delivered	Lådor & Kartonger	Allmänna objekt	Företag	Huddinge	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-01-21	 650,40 kr 	1874	813	1343,5
+Rostfritt frysskåp	2019-01-21	delivered	Vitvaror	Allmänna objekt	Privatperson	Vallentuna	Stockholm	Sverige	Järfälla	Stockholm	Sverige	2019-01-21	 700,00 kr 	875	875	875,0
+Hilding Family Plus	2019-01-21	delivered	Sängar & Sovrum	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Knivsta	Uppsala	Sverige	2019-01-21	 1 200,00 kr 	1250	1500	1412,7
+Transport:hyllsystem från Brösarp till Stockholm Södermal	2019-01-21	paid	Hylla	Möbler	Privatperson	Brösarp	Skåne	Sverige	Stockholm	Stockholm	Sverige	2019-01-23	 1 500,00 kr 	1875	1875	1875,0
+Soffa bortslumpas	2019-01-22	paid	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Göteborg	Västra Götaland	Sverige	2019-01-28	 1 340,00 kr 	1675	1675	1675,0
+Klädskåp	2019-01-22	paid	Hyllor, Skåp & Garderober	Möbler	Företag	Svalöv	Skåne	Sverige	Östersund	Jämtland	Sverige	2019-01-31	 2 800,00 kr 	3500	3500	3500,0
+Soffa Claire - Bröderna Andersson Småland	2019-01-22	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Täby	Stockholm	Sverige	Avesta	Dalarna	Sverige	2019-01-23	 2 000,00 kr 	2500	2500	2500,0
+Utförsäljning av demo ex -40	2019-01-22	paid	Övrigt	Möbler	Privatperson	Gävle	Gävleborg	Sverige	Halmstad	Halland	Sverige	2019-01-22	 1 860,00 kr 	2325	2325	2325,0
+Transport Stockholmuppsala	2019-01-22	delivered	Hylla	Möbler	Privatperson	Sundbyberg	Stockholm	Sverige	Uppsala	Uppsala	Sverige	2019-01-23	 990,40 kr 	1000	1500	1222,6
+Transportera soffa	2019-01-22	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-01-22	 789,60 kr 	1000	987	993,5
+Flytt Motala- Lund	2019-01-22	paid	Möbler	-	Privatperson	Motala	--	Sverige	Lund	--	Sverige	2019-02-04	 2 000,00 kr 	2500	3125	2708,3
+Matsals grupp	2019-01-22	delivered	Bord & Stolar	Möbler	Privatperson	Göteborg	--	Sverige	Malmö	Skåne	Sverige	2019-01-24	 1 200,00 kr 	1500	1875	1687,5
+Hovdens 4-sitts bäddsoffa 160x200	2019-01-22	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Norrtälje	Stockholm	Sverige	Kristianstad	Skåne	Sverige	2019-01-25	 1 940,00 kr 	2425	2425	2425,0
+Matsalsbord med sex stolar i Masurbjörk	2019-01-22	paid	Bord & Stolar	Möbler	Privatperson	Jönköping	Kalmar	Sverige	Falun	Dalarna	Sverige	2019-01-28	 2 000,00 kr 	2500	4999	3749,5
+Soffgrupp Mio Bogart	2019-01-23	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Löddeköpinge	Skåne	Sverige	Karlshamn	Blekinge	Sverige	2019-01-23	 2 000,00 kr 	2500	2500	2500,0
+4Stk matstolar	2019-01-23	delivered	Bord & Stolar	Möbler	Privatperson	Svedala	Skåne	Sverige	Uppsala	Uppsala	Sverige	2019-01-26	 800,00 kr 	1000	1875	1406,3
+Transportbehov Stockholm Örby -&gt; Wien Österrike	2019-01-23	paid	Allmänna objekt	-	Privatperson	Stockholm	Stockholm	Sverige	Vienna	ALL	Österrike	2019-02-27	 1 840,00 kr 	15000	28750	22250,0
+Flytta diverse bohag till Hundfjället Sälen	2019-01-23	delivered	Flytt av hem	Flytt	Privatperson	Lidingö	Stockholm	Sverige	Sälen	Dalarna	Sverige	2019-01-26	 4 800,00 kr 	6000	9375	7687,5
+Felfria vinterhjul	2019-01-23	delivered	Fordonstillbehör & Delar	Övriga fordon & delar	Privatperson	Landskrona	Skåne	Sverige	Stockholm	Stockholm	Sverige	2019-01-24	 1 000,00 kr 	1250	1250	1250,0
+Move 120kg from Stockholm to Zurich - urgent	2019-01-24	delivered	Lådor & Kartonger	Allmänna objekt	Privatperson	Solna	--	Sverige	Zürich	ALL	Schweiz	2019-01-24	 5 000,00 kr 	5000	5000	5000,0
+transport av bord	2019-01-24	delivered	Bord & Stolar	Möbler	Privatperson	Malmö	Skåne	Sverige	Lidingö	Stockholm	Sverige	2019-01-30	 1 000,00 kr 	1250	1250	1250,0
+Fönster till t.ex växthus mm	2019-01-24	delivered	Bygg & Trädgård	Allmänna objekt	Privatperson	Landskrona	Skåne	Sverige	Vollsjö	Skåne	Sverige	2019-01-24	 1 500,00 kr 	1875	1875	1875,0
+Transport av soffa	2019-01-24	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Karlskrona	--	Sverige	Uppsala	--	Sverige	2019-01-28	 2 000,00 kr 	2500	2500	2500,0
+Transportera 100 lådor med sterilt BSS.	2019-01-24	delivered	Läkemedelsprodukter & Material	Företagsobjekt	Företag	Tumba	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-01-24	 1 200,00 kr 	1500	2874	2187,0
+Flytta soffa	2019-01-25	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Linköping	--	Sverige	Malmö	Skåne	Sverige	2019-01-26	 1 200,00 kr 	1500	1500	1500,0
+Transportera en spffa	2019-01-25	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Malmö	Skåne	Sverige	Malmö	Skåne	Sverige	2019-01-26	 500,00 kr 	625	625	625,0
+Imperialsängar	2019-01-25	delivered	Sängar & Sovrum	Möbler	Privatperson	Växjö	Kronoberg	Sverige	Malmö-Sturup	Skåne	Sverige	2019-01-28	 1 200,00 kr 	1500	1500	1500,0
+Bäddsoffa	2019-01-25	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Solna	Stockholm	Sverige	Åkersberga	Stockholm	Sverige	2019-01-26	 1 500,00 kr 	1875	1999	1937,0
+Välvårdad tresittssoffa	2019-01-26	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Malmö	Skåne	Sverige	Bunkeflostrand	--	Sverige	2019-01-26	 700,00 kr 	875	875	875,0
+Skrivbord	2019-01-27	delivered	Skrivbord & Skrivbordsstolar	Möbler	Privatperson	Göteborg	--	Sverige	Uppsala	--	Sverige	2019-01-29	 1 200,00 kr 	1500	1500	1500,0
+Flytt från Fristad till Lund	2019-01-27	paid	Lådor & Kartonger	Allmänna objekt	Privatperson	Fristad	Västra Götaland	Sverige	Lund	Skåne	Sverige	2019-01-30	 2 500,00 kr 	3125	3125	3125,0
+Frakta ett matbord och 4 stolar	2019-01-27	delivered	Övrigt	Allmänna objekt	Privatperson	Malmö	Skåne	Sverige	Stockholm	Stockholm	Sverige	2019-01-28	 800,00 kr 	1000	1000	1000,0
+Två smalare soffor från nordiska galleriet	2019-01-27	paid	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	--	Sverige	Boxholm	Östergötland	Sverige	2019-01-28	 1 600,00 kr 	2000	3374	2687,0
+Soffa	2019-01-27	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Borås	Västra Götaland	Sverige	Stockholm	Stockholm	Sverige	2019-01-29	 1 400,00 kr 	1750	1750	1750,0
+Soptunnor	2019-01-28	paid	Bygg & Trädgård	Allmänna objekt	Privatperson	Vaggeryd	--	Sverige	Värmdö	--	Sverige	2019-02-07	 1 120,00 kr 	1400	1750	1512,5
+Flytt av metalltrappa.	2019-01-28	delivered	Övrigt	Övriga objekt & pallar	Privatperson	Stockholm	Stockholm	Sverige	Kivik	Skåne	Sverige	2019-01-29	 1 200,00 kr 	1500	1875	1687,5
+Vacker antik byrå	2019-01-28	delivered	Hylla	Möbler	Privatperson	Malmö	Skåne	Sverige	Solna	Stockholm	Sverige	2019-01-28	 1 200,00 kr 	1500	1500	1500,0
+Elpiano	2019-01-28	paid	Sport & Fritid	Allmänna objekt	Privatperson	Berlin	ALL	Tyskland	Växjö	Kronoberg	Sverige	2019-01-31	 1 400,00 kr 	1750	1750	1750,0
+Soffa	2019-01-28	delivered	Soffor & Fåtöljer	Möbler	Företag	Södertälje	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-01-28	 1 400,00 kr 	1750	1874	1812,0
+Transport av kartonger samt säng	2019-01-28	paid	Lådor & Kartonger	Allmänna objekt	Privatperson	Landskrona	Skåne	Sverige	Täby	Stockholm	Sverige	2019-01-29	 2 000,00 kr 	2500	2875	2687,5
+Frakt av dörr	2019-01-28	delivered	Kontorsutrustning & Material	Företagsobjekt	Företag	Umeå	Västerbotten	Sverige	Umeå	Västerbotten	Sverige	2019-01-29	 380,00 kr 	475	475	475,0
+Gammalt antikt skåp	2019-01-28	delivered	Hylla	Möbler	Privatperson	Kristianstad	Skåne	Sverige	Kolmården	Östergötland	Sverige	2019-01-29	 1 200,00 kr 	1500	1500	1500,0
+Fåtölj + pall från Englesson	2019-01-28	delivered	Fåtölj	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-01-28	 640,00 kr 	1250	800	1278,0
+Bord från Västerås till Götlunda Arboga	2019-01-28	paid	Bord & Stolar	Möbler	Privatperson	Västerås	Västmanland	Sverige	Arboga	Västerbotten	Sverige	2019-01-30	 1 120,00 kr 	1400	1400	1400,0
+Höj och sänkbart skrivbord IKEA	2019-01-29	delivered	Bord & Stolar	Möbler	Privatperson	Älvsjö	--	Sverige	Stockholm	--	Sverige	2019-01-29	 800,00 kr 	1000	1000	1000,0
+direkt transport av 7 pallar	2019-01-29	delivered	Pallar	Övriga objekt & pallar	Företag	Höör	Skåne	Sverige	Malmö	Skåne	Sverige	2019-01-29	 2 300,00 kr 	2875	2875	2875,0
+Halvpall med vinterdäck Suv	2019-01-29	delivered	Pallar	Övriga objekt & pallar	Privatperson	Reslöv	Skåne	Sverige	Sundbyberg	Stockholm	Sverige	2019-01-29	 1 600,00 kr 	2000	2000	2000,0
+Bugaboo buffalo all black	2019-01-29	delivered	Övrigt	Övriga objekt & pallar	Privatperson	Finspång	Östergötland	Sverige	Billdal	Västra Götaland	Sverige	2019-01-31	 768,00 kr 	960	960	960,0
+Ugn/spis	2019-01-29	delivered	Vitvaror	Allmänna objekt	Privatperson	Nyköping	Södermanland	Sverige	Nyköping	Södermanland	Sverige	2019-01-30	 800,00 kr 	1000	1000	1000,0
+TV bänk med carrara marmor och Supefront	2019-01-29	delivered	Övrigt	Allmänna objekt	Privatperson	Stockholm	--	Sverige	Sollentuna	--	Sverige	2019-01-29	 1 200,00 kr 	1000	1500	1250,0
+Äldre musikmöbel från Linköping till Stockholm	2019-01-29	paid	Övrigt	Ömtåligt & Antikt	Privatperson	Linköping	Östergötland	Sverige	Stockholm	Stockholm	Sverige	2019-02-25	 3 099,20 kr 	3125	3874	3499,5
+Transport samt bära Billy Bokhylla 230 cm hög, 80 bred, 40	2019-01-29	delivered	Hylla	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-01-29	 1 099,20 kr 	1374	1374	1374,0
+bärhjälp	2019-01-29	delivered	Hyllor, Skåp & Garderober	Möbler	Privatperson	Gnesta	Södermanland	Sverige	Gnesta	Södermanland	Sverige	2019-01-29	 999,20 kr 	1249	1249	1249,0
+30 dunkar olivolja eller 510 liter med andra ord	2019-01-29	delivered	Övrigt	Övriga objekt & pallar	Privatperson	Solna	Stockholm	Sverige	Falun	Dalarna	Sverige	2019-02-05	 2 700,00 kr 	3375	3750	3562,5
+Soffa, fåtölj  byrå	2019-01-29	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Karlskrona	Blekinge	Sverige	Stockholm	Stockholm	Sverige	2019-01-31	 1 900,00 kr 	2375	2375	2375,0
+Ktm 625 Smc	2019-01-30	paid	Motorcykel	Motorcyklar & Mopeder	Privatperson	Lerum	--	Sverige	Stora Vika	Stockholm	Sverige	2019-02-11	 2 000,00 kr 	2500	4375	3437,5
+Nyservad IVT Greenline C5	2019-01-30	paid	Vitvaror	Allmänna objekt	Privatperson	Borås	--	Sverige	Östersund	Jämtland	Sverige	2019-02-07	 2 800,00 kr 	3500	3500	3500,0
+Motor trädgårdstraktor	2019-01-30	delivered	Pallar	Övriga objekt & pallar	Privatperson	Falköping	--	Sverige	Mariefred	--	Sverige	2019-01-30	 1 600,00 kr 	2000	2000	2000,0
+Utställningsmöbler från designbutik	2019-01-30	paid	Bord & Stolar	Möbler	Privatperson	Västervik	Kalmar	Sverige	Danderyd	Stockholm	Sverige	2019-01-30	 1 400,00 kr 	1750	1750	1750,0
+Stor &quot;Bumling&quot;, Ateljé Lyktan	2019-01-30	delivered	Övrigt	Möbler	Privatperson	Lidingö	Stockholm	Sverige	Charlottenberg	Värmland	Sverige	2019-02-06	 1 320,00 kr 	1650	1650	1650,0
+Voga möbler	2019-01-30	delivered	Bord & Stolar	Möbler	Privatperson	Oranmore	ALL	Irland	Nacka	Stockholm	Sverige	2019-02-05	 1 880,00 kr 	2350	2350	2350,0
+2 fotöljer	2019-01-30	delivered	Fåtölj	Möbler	Privatperson	Fårö	Gotland	Sverige	Stockholm	Stockholm	Sverige	2019-02-05	 2 500,00 kr 	3125	3125	3125,0
+piano	2019-01-30	delivered	Övrigt	Allmänna objekt	Privatperson	Lund	Skåne	Sverige	Lund	Skåne	Sverige	2019-02-10	 1 500,00 kr 	1875	1875	1875,0
+Flytt av möbler mm ca 1,5 m3	2019-01-31	paid	Övrigt	Möbler	Privatperson	Stockholm	--	Sverige	Lilla Beddinge	Skåne	Sverige	2019-01-31	 2 000,00 kr 	2500	2500	2500,0
+Traktor med Griplastarvagn	2019-01-31	paid	Släp	Övriga fordon & delar	Företag	Norrköping	Östergötland	Sverige	Kälarne	Jämtland	Sverige	2019-02-05	 13 300,00 kr 	16625	16625	16625,0
+Flytt från Uppsala till London	2019-01-31	paid	Flytt av hem	Flytt	Privatperson	Uppsala	Uppsala	Sverige	London	ALL	Storbritannien	2019-02-05	 6 000,00 kr 	14375	7500	12291,7
+Soffor	2019-01-31	paid	Soffor & Fåtöljer	Möbler	Privatperson	Nacka	Stockholm	Sverige	Falun	Dalarna	Sverige	2019-01-31	 1 600,00 kr 	2000	2000	2000,0
+flytt av 2,5 bokhyllesektioner	2019-02-01	paid	Hyllor, Skåp & Garderober	Möbler	Privatperson	jönköping	Kalmar	Sverige	Jönköping	Kalmar	Sverige	2019-02-08	 1 520,00 kr 	1900	1900	1900,0
+Transport av Hästens-säng Växjö - Stockholm	2019-02-02	paid	Sängar & Sovrum	Möbler	Privatperson	Växjö	--	Sverige	Stockholm	--	Sverige	2019-02-03	 1 200,00 kr 	1500	1500	1500,0
+Teleskoplastare JCB 535-95	2019-02-02	paid	Släp	Övriga fordon & delar	Privatperson	Katrineholm	Södermanland	Sverige	Lodose	--	Sverige	2019-02-07	 6 000,00 kr 	7000	7500	7333,3
+Thonet, Bodafors,	2019-02-02	paid	Ömtåligt & Antikt	-	Privatperson	Håbo	Uppsala	Sverige	Hovmantorp	Kronoberg	Sverige	2019-02-05	 2 400,00 kr 	3000	3000	3000,0
+Ljusgrå garderober tillverkade av finsnickare	2019-02-02	delivered	Hylla	Möbler	Privatperson	Danderyd	Stockholm	Sverige	Hägersten	Stockholm	Sverige	2019-02-02	 1 300,00 kr 	1625	1625	1625,0
+Flytt av piano	2019-02-03	paid	Pianon	Ömtåligt & Antikt	Privatperson	Malmö	Skåne	Sverige	Malmö	Skåne	Sverige	2019-02-05	 1 500,00 kr 	1875	1875	1875,0
+Säng Stockholm - Gotland	2019-02-03	paid	Sängar & Sovrum	Möbler	Privatperson	Skarpnäck	Stockholm	Sverige	Lickershamn	Gotland	Sverige	2019-02-13	 1 500,00 kr 	1875	1875	1875,0
+Trasnport av Crosstrainer.	2019-02-03	delivered	Övrigt	Allmänna objekt	Privatperson	Stockholm	--	Sverige	Bromma	--	Sverige	2019-02-08	 1 450,40 kr 	1813	1875	1844,0
+Zybex Priam Lux -2016	2019-02-03	paid	Övrigt	Övriga objekt & pallar	Privatperson	Linköping	ALL	Danmark	Copenhagen S	ALL	Danmark	2019-02-04	 620,00 kr 	775	775	775,0
+Stolar från Halmstad till Stockholm	2019-02-03	paid	Bord & Stolar	Möbler	Privatperson	Halmstad	--	Sverige	Stockholm	--	Sverige	2019-02-03	 1 200,00 kr 	1500	1500	1500,0
+Stokke sleepi	2019-02-03	delivered	Möbler	-	Privatperson	Bandhagen	--	Sverige	Stockholm	--	Sverige	2019-02-03	 1 500,00 kr 	1875	1875	1875,0
+Antik skåp	2019-02-03	paid	Ömtåligt & Antikt	-	Företag	Nyköping	Södermanland	Sverige	Arboga	Västmanland	Sverige	2019-02-05	 1 400,00 kr 	1750	3624	2687,0
+Transport av kompakttraktor	2019-02-04	paid	Traktorer & Lantbruksmaskiner	Övriga fordon & delar	Företag	Töllsjö	Västra Götaland	Sverige	Sundsvall	Västernorrland	Sverige	2019-02-07	 5 500,00 kr 	6875	6875	6875,0
+Hämtning och leverans av säng	2019-02-04	paid	Sängar & Sovrum	Möbler	Privatperson	Åby	Östergötland	Sverige	Norrköping	Östergötland	Sverige	2019-02-05	 1 280,00 kr 	1600	1600	1600,0
+Matbird och 4 stolar	2019-02-04	delivered	Bord & Stolar	Möbler	Privatperson	Göteborg	Västra Götaland	Sverige	Göteborg	Västra Götaland	Sverige	2019-02-07	 960,00 kr 	1200	1200	1200,0
+Flytta 90 säng från Spånga till Arild	2019-02-04	delivered	Sängar & Sovrum	Möbler	Privatperson	Spånga	Stockholm	Sverige	Arild	Skåne	Sverige	2019-02-10	 1 500,00 kr 	1875	1875	1875,0
+Elektronisk Massagebänk, Tarsus,	2019-02-04	paid	Sport & Fritid	Allmänna objekt	Privatperson	Vallentuna	Stockholm	Sverige	Kristianstad	Skåne	Sverige	2019-02-05	 1 200,00 kr 	1500	1500	1500,0
+Litet bohag från Kalmar till Zürich.	2019-02-04	delivered	Sängar & Sovrum	Möbler	Privatperson	Kalmar	Jönköping	Sverige	Zürich	ALL	Schweiz	2019-02-07	 1 300,00 kr 	13000	13000	13000,0
+IKEA Kramfors schäslong	2019-02-05	paid	Soffor & Fåtöljer	Möbler	Privatperson	Varberg	Halland	Sverige	Ockelbo	Gävleborg	Sverige	2019-02-07	 1 200,00 kr 	1500	1875	1687,5
+Frakt	2019-02-05	paid	Övrigt	Ömtåligt & Antikt	Företag	Orsa	Dalarna	Sverige	Norrköping	Östergötland	Sverige	2019-02-07	 2 000,00 kr 	2500	3999	3124,7
+2 stolar böjträ B Mattson	2019-02-05	paid	Bord & Stolar	Möbler	Privatperson	Norrköping	--	Sverige	Bromma	--	Sverige	2019-02-05	 1 000,00 kr 	1250	2874	2062,0
+Konsolbord	2019-02-05	paid	Övrigt	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Mölnlycke	Västra Götaland	Sverige	2019-02-06	 1 260,00 kr 	1575	1575	1575,0
+Sänggavel från hästens	2019-02-05	delivered	Sängar & Sovrum	Möbler	Privatperson	Sundbyberg	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-02-06	 500,00 kr 	625	800	678,6
+Bellus hörnsoffa	2019-02-05	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Johanneshov	Stockholm	Sverige	2019-02-05	 1 400,00 kr 	1750	1750	1750,0
+Motorcykel transport	2019-02-06	delivered	Motorcykel	Motorcyklar & Mopeder	Privatperson	Spånga	--	Sverige	Sollentuna	--	Sverige	2019-02-06	 1 200,00 kr 	1500	1500	1500,0
+Transport av snickerimaskin.	2019-02-06	delivered	Pallar	Övriga objekt & pallar	Privatperson	Gnesta	--	Sverige	Burgsvik	--	Sverige	2019-02-06	 2 300,00 kr 	2875	2875	2875,0
+Soffa med divan samt sittpall	2019-02-06	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Sollentuna	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-02-06	 1 500,00 kr 	1625	1875	1750,0
+Carl Malmsten soffa	2019-02-06	paid	Soffor & Fåtöljer	Möbler	Privatperson	Malmö	Skåne	Sverige	Malmö	Skåne	Sverige	2019-02-06	 1 200,00 kr 	1500	1500	1500,0
+Två bord	2019-02-07	delivered	Bord & Stolar	Möbler	Företag	Hägersten	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-02-07	 1 100,00 kr 	1375	1375	1375,0
+Soffa i nyskick	2019-02-07	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Malmö	Skåne	Sverige	Gislaved	Kalmar	Sverige	2019-02-08	 1 300,00 kr 	1625	1625	1625,0
+Sideboard teak 60-tal	2019-02-08	paid	Bord & Stolar	Möbler	Privatperson	Uppsala	Uppsala	Sverige	Hudiksvall	Gävleborg	Sverige	2019-02-08	 1 360,00 kr 	1700	1700	1700,0
+Yamaha YS-624 snöslunga	2019-02-08	paid	Trädgårdsmaskiner	Övriga fordon & delar	Privatperson	Söderhamn	Gävleborg	Sverige	Matfors	--	Sverige	2019-02-08	 1 260,00 kr 	1575	1575	1575,0
+Flytt till Oslo från Stockholm	2019-02-08	paid	Lådor & Kartonger	Allmänna objekt	Privatperson	Stockholm	Stockholm	Sverige	Oslo	ALL	Norge	2019-02-09	 1 975,00 kr 	1975	5900	3937,5
+Soffa	2019-02-08	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Göteborg	Västra Götaland	Sverige	Göteborg	Västra Götaland	Sverige	2019-02-10	 800,00 kr 	1000	1000	1000,0
+EXKLUSIV ÄDELTRÄ BOKHYLLA + 2kW Braskamin	2019-02-09	delivered	Hylla	Möbler	Privatperson	Mora	Dalarna	Sverige	Åkersberga	Stockholm	Sverige	2019-02-13	 3 799,20 kr 	4749	4749	4749,0
+Möbeltransport	2019-02-09	paid	Bord & Stolar	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Karlskrona	Blekinge	Sverige	2019-02-26	 3 000,00 kr 	3750	5625	4318,8
+Skrivbord i furu	2019-02-10	paid	Bord & Stolar	Möbler	Privatperson	Västerås	Västmanland	Sverige	Krylbo	Dalarna	Sverige	2019-02-11	 800,00 kr 	1000	1000	1000,0
+Transport av lerdvekastare från Gotland till Huddinge	2019-02-10	paid	Övrigt	Övriga objekt & pallar	Privatperson	Hemse	Gotland	Sverige	Huddinge	Stockholm	Sverige	2019-02-13	 1 000,00 kr 	1250	4000	2625,0
+Skänk och bord från Karlskoga till Sthlm	2019-02-10	delivered	Hyllor, Skåp & Garderober	Möbler	Privatperson	Karlskoga	Örebro	Sverige	Saltsjö-boo	Stockholm	Sverige	2019-02-11	 2 499,20 kr 	2250	3124	2687,0
+Tavla	2019-02-10	delivered	Konst	Ömtåligt & Antikt	Privatperson	Heberg	Halland	Sverige	Hammenhög	--	Sverige	2019-02-12	 740,00 kr 	925	925	925,0
+Vitrinskåp	2019-02-10	paid	Hyllor, Skåp & Garderober	Möbler	Privatperson	Halmstad	Halland	Sverige	Täby	Stockholm	Sverige	2019-02-15	 1 760,00 kr 	2200	2200	2200,0
+Ett skåp	2019-02-10	delivered	Hyllor, Skåp & Garderober	Möbler	Privatperson	Huddinge	Stockholm	Sverige	Bromma	Stockholm	Sverige	2019-02-11	 1 000,00 kr 	1000	1250	1083,3
+Transport av liten tavla	2019-02-10	paid	Konst	Ömtåligt & Antikt	Privatperson	Heberg	Halland	Sverige	Lund	Skåne	Sverige	2019-02-11	 800,00 kr 	1000	1000	1000,0
+Säng enkel 90200	2019-02-10	delivered	Sängar & Sovrum	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Nacka Strand	Stockholm	Sverige	2019-02-10	 1 200,00 kr 	1500	1813	1640,8
+Flytta 2 fåtöljer från Linköping till Stockholm	2019-02-10	paid	Fåtölj	Möbler	Privatperson	Linköping	Östergötland	Sverige	Enebyberg	Stockholm	Sverige	2019-02-18	 1 000,00 kr 	1250	2875	1818,8
+Hemkörning av soffa	2019-02-10	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Hägersten	--	Sverige	Bagarmossen	--	Sverige	2019-02-11	 800,00 kr 	1000	1000	1000,0
+Transport av ett gammalt skåp	2019-02-11	paid	Hyllor, Skåp & Garderober	Möbler	Privatperson	Åtvidaberg	Östergötland	Sverige	Uppsala	Uppsala	Sverige	2019-02-11	 1 800,00 kr 	2250	2250	2250,0
+Soffbord Bruno Mathsson	2019-02-11	delivered	Bord & Stolar	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Lund	Skåne	Sverige	2019-02-14	 1 000,00 kr 	1250	1250	1250,0
+Transport Eskilstuna-Kumla	2019-02-11	delivered	Övrigt	Allmänna objekt	Privatperson	Eskilstuna	Södermanland	Sverige	Kumla	Örebro	Sverige	2019-02-11	 1 170,40 kr 	1463	2874	1928,0
+2 bord	2019-02-11	paid	Bord & Stolar	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-02-11	 720,00 kr 	900	900	900,0
+Grythyttan trädgårdsgrupp	2019-02-11	paid	Bygg & Trädgård	Allmänna objekt	Privatperson	Härryda	--	Sverige	Norrköping	--	Sverige	2019-02-12	 1 400,00 kr 	1750	1750	1750,0
+Transport av kylskåp	2019-02-12	delivered	Vitvaror	Allmänna objekt	Privatperson	Hägersten	Stockholm	Sverige	Sundbyberg	Stockholm	Sverige	2019-02-13	 1 000,00 kr 	1250	1250	1250,0
+Röd Howardsoffa och fåtölj	2019-02-12	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Vaxholm	Stockholm	Sverige	2019-02-12	 1 800,00 kr 	1875	2250	2093,8
+Flytning av bokhyllor från Tullinge till Björnlunda	2019-02-12	delivered	Hyllor, Skåp & Garderober	Möbler	Företag	Tullinge	--	Sverige	Askartorp	--	Sverige	2019-02-13	 2 000,00 kr 	2499	2500	2499,5
+Ikea byrå 2 st	2019-02-12	paid	Hylla	Möbler	Privatperson	Bromma	--	Sverige	Västerhaninge	--	Sverige	2019-02-12	 800,00 kr 	1000	1000	1000,0
+Transport motorcykel från Skepplanda till Malmö	2019-02-12	paid	Motorcykel	Motorcyklar & Mopeder	Privatperson	SKEPPLANDA	Västra Götaland	Sverige	Malmö	Skåne	Sverige	2019-02-20	 1 900,00 kr 	2375	3125	2833,3
+Skåp	2019-02-12	delivered	Hyllor, Skåp & Garderober	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Linköping	Östergötland	Sverige	2019-02-12	 1 000,00 kr 	1250	1250	1250,0
+Två gula sideboards från ikea Trollsta	2019-02-12	delivered	Övrigt	Allmänna objekt	Privatperson	Tyresö	Stockholm	Sverige	Jönköping	Kalmar	Sverige	2019-02-12	 600,00 kr 	2750	750	1750,0
+Flytt av enstaka möbler	2019-02-12	paid	Sängar & Sovrum	Möbler	Privatperson	Malmö	--	Sverige	Stockholm	--	Sverige	2019-02-17	 3 600,00 kr 	3250	4500	3875,0
+Rymlig hörnsoffa Howardsoffa	2019-02-12	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Eksjö	Jönköping	Sverige	2019-02-13	 2 500,00 kr 	3125	3125	3125,0
+Skåp från Effecta	2019-02-12	paid	Hyllor, Skåp & Garderober	Möbler	Privatperson	Västerås	Västmanland	Sverige	Västerås	Västmanland	Sverige	2019-02-13	 640,00 kr 	800	800	800,0
+Westroth klädträd Gudrun	2019-02-13	delivered	Hylla	Möbler	Privatperson	Partille	--	Sverige	Stockholm	Stockholm	Sverige	2019-02-14	 1 500,00 kr 	1875	1875	1875,0
+Hobby 720 UKFE 2007-trevåningssäng-149.000kr	2019-02-13	paid	Husvagnar & Husbilar	Övriga fordon & delar	Privatperson	Uppsala	Uppsala	Sverige	Nynäshamn	Stockholm	Sverige	2019-02-13	 1 760,00 kr 	2200	2200	2200,0
+Spegeldörrar sekelskiftet	2019-02-13	delivered	Övrigt	Övriga objekt & pallar	Privatperson	Malmö	Skåne	Sverige	Solna	Stockholm	Sverige	2019-02-13	 1 500,00 kr 	1875	1875	1875,0
+Transport av sänggavel 180 cm 26 kg TranåsJkpgs län-Lund.	2019-02-13	delivered	Sängar & Sovrum	Möbler	Privatperson	Tranås	Kalmar	Sverige	Lund	Skåne	Sverige	2019-02-15	 1 200,00 kr 	1500	1500	1500,0
+Frakt av mopedbil	2019-02-14	paid	Moped	Motorcyklar & Mopeder	Privatperson	Kvissleby	Västernorrland	Sverige	Gunnebo	Jönköping	Sverige	2019-02-25	 3 360,00 kr 	4200	4200	4200,0
+Lada Niva ej körbar &quot;Färdigt uppdrag&quot;	2019-02-14	paid	Bilar	-	Företag	Ånge	Västernorrland	Sverige	Leksand	Dalarna	Sverige	2019-02-14	 3 200,00 kr 	4000	4000	4000,0
+Franskt barock skåp/garderob	2019-02-14	paid	Hylla	Möbler	Företag	Härnösand	Västernorrland	Sverige	Nyhamnsläge	Skåne	Sverige	2019-02-14	 3 200,00 kr 	4000	4000	4000,0
+Hämta ut en byrå och leverera den till mig	2019-02-14	delivered	Hyllor, Skåp & Garderober	Möbler	Privatperson	Bromma	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-02-14	 600,00 kr 	750	750	750,0
+Byrå	2019-02-14	delivered	Övrigt	Möbler	Privatperson	Trelleborg	Skåne	Sverige	Lidingö	Stockholm	Sverige	2019-02-15	 1 000,00 kr 	1250	1250	1250,0
+Cykeltransport	2019-02-14	delivered	Cyklar	Övriga fordon & delar	Privatperson	Malmö	Skåne	Sverige	Lidingö	Stockholm	Sverige	2019-02-15	 700,00 kr 	875	875	875,0
+Fransk Sängstomme i Järn 1800tal	2019-02-14	paid	Sängar & Sovrum	Möbler	Privatperson	Kungsbacka	Halland	Sverige	Stockholm	Stockholm	Sverige	2019-02-15	 1 600,00 kr 	2000	2000	2000,0
+Transport från Solna till Malmö	2019-02-15	delivered	Antikviteter	Ömtåligt & Antikt	Privatperson	Solna	Stockholm	Sverige	Malmö	Skåne	Sverige	2019-02-15	 1 500,00 kr 	1875	1875	1875,0
+Lamino fåtölj med fotpall, Yngve Ekström	2019-02-15	paid	Fåtölj	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Hästveda	Skåne	Sverige	2019-02-15	 1 200,00 kr 	1500	1500	1500,0
+Avhämta dubbelsäng	2019-02-15	delivered	Sängar & Sovrum	Möbler	Privatperson	Gothenburg	Västra Götaland	Sverige	Göteborg	Västra Götaland	Sverige	2019-02-16	 950,40 kr 	1188	1188	1188,0
+Massagebänk Lojer Elektrisk	2019-02-15	paid	Sport & Fritid	Allmänna objekt	Privatperson	Huddinge	Stockholm	Sverige	Höganäs	Skåne	Sverige	2019-02-20	 2 000,00 kr 	2500	2500	2500,0
+Bäddsoffa i nyskick 120 cm	2019-02-15	paid	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	--	Sverige	Uppsala	--	Sverige	2019-02-18	 1 200,00 kr 	1500	1999	1749,5
+MC Transport.	2019-02-16	paid	Motorcykel	Motorcyklar & Mopeder	Privatperson	Trollhättan	Västra Götaland	Sverige	Timrå	Västernorrland	Sverige	2019-02-22	 2 800,00 kr 	3500	3500	3500,0
+Frakta en liten säng	2019-02-16	delivered	Sängar & Sovrum	Möbler	Privatperson	Växjö	Kronoberg	Sverige	Stockholm	Stockholm	Sverige	2019-02-16	 1 000,00 kr 	1250	1250	1250,0
+Kristallkrona Lampa Restaurang	2019-02-16	paid	Övrigt	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Valbo	Gävleborg	Sverige	2019-02-19	 1 200,00 kr 	1500	1500	1500,0
+Två ovanliga fåtöljer	2019-02-16	paid	Fåtölj	Möbler	Privatperson	Göteborg	--	Sverige	Östersund	Jämtland	Sverige	2019-02-19	 2 000,00 kr 	2500	3125	2812,5
+Köksstolar, 4 st	2019-02-17	delivered	Bord & Stolar	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Sundbyberg	Stockholm	Sverige	2019-02-17	 700,00 kr 	875	875	875,0
+Wegner 1788 stolar	2019-02-17	paid	Soffor & Fåtöljer	Möbler	Privatperson	Enköping	Uppsala	Sverige	Næstved	ALL	Danmark	2019-02-17	 2 500,00 kr 	3125	3125	3125,0
+Kassaskåp	2019-02-17	paid	Företagsobjekt	-	Privatperson	Växjö	Kronoberg	Sverige	Stocksund	Stockholm	Sverige	2019-02-19	 1 760,00 kr 	2200	2200	2200,0
+Kökssoffa	2019-02-17	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Malmö	Skåne	Sverige	Lund	Skåne	Sverige	2019-02-17	 600,00 kr 	750	750	750,0
+Kramer 350 , komfortpaket 88 Tim	2019-02-17	paid	Övriga Fordon & Delar	-	Privatperson	Huddinge	Stockholm	Sverige	Lyckeby	Blekinge	Sverige	2019-02-26	 7 120,00 kr 	8900	8900	8900,0
+Ox denmarq Big-O mässing underrede	2019-02-17	delivered	Bord & Stolar	Möbler	Privatperson	Varberg	Halland	Sverige	Stockholm	Stockholm	Sverige	2019-02-19	 1 280,00 kr 	1600	1600	1600,0
+Eden Soffa - hörnsoffa	2019-02-17	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Staffanstorp	Skåne	Sverige	Stockholm	Stockholm	Sverige	2019-02-19	 1 500,00 kr 	1875	1875	1875,0
+Flytta autoklav	2019-02-18	delivered	Övrigt	Övriga objekt & pallar	Privatperson	Stockholm	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-02-18	 720,00 kr 	900	900	900,0
+Motionscykel Monark Home Line 555 E	2019-02-18	delivered	Sport & Fritid	Allmänna objekt	Privatperson	Göteborg	--	Sverige	Borås	Västra Götaland	Sverige	2019-02-19	 600,00 kr 	750	750	750,0
+Flytt av bäddsoffa.	2019-02-18	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Bromma	Stockholm	Sverige	2019-02-19	 1 500,00 kr 	1875	1875	1875,0
+Malmsjö Piano Bortskänkes mot hämtning	2019-02-18	delivered	Pianon	Ömtåligt & Antikt	Privatperson	Täby	Stockholm	Sverige	Gustavsberg	Stockholm	Sverige	2019-02-18	 1 900,00 kr 	2375	2375	2375,0
+Fåtölj, Karlstad Skoghall till Göteborg	2019-02-18	paid	Fåtölj	Möbler	Privatperson	Skoghall	Värmland	Sverige	Göteborg	Västra Götaland	Sverige	2019-02-19	 1 000,00 kr 	1250	1250	1250,0
+Säng	2019-02-18	delivered	Sängar & Sovrum	Möbler	Privatperson	Ekerö	Stockholm	Sverige	Älvsjö	Stockholm	Sverige	2019-02-25	 1 600,00 kr 	2000	2000	2000,0
+Frys 175cm	2019-02-18	delivered	Vitvaror	Allmänna objekt	Privatperson	Stockholm	Stockholm	Sverige	Jordbro	Stockholm	Sverige	2019-02-18	 800,00 kr 	1000	1000	1000,0
+Barnsäng	2019-02-18	delivered	Sängar & Sovrum	Möbler	Privatperson	Göteborg	--	Sverige	Limhamn	--	Sverige	2019-02-19	 1 300,00 kr 	1625	1625	1625,0
+SkrivbordModuler	2019-02-19	paid	Hylla	Möbler	Privatperson	Ekerö	--	Sverige	Landvetter	--	Sverige	2019-02-24	 2 000,00 kr 	2500	2500	2500,0
+Leverans av kaffemaskin	2019-02-19	delivered	Ömtåligt gods	Ömtåligt & Antikt	Privatperson	Partille	Västra Götaland	Sverige	Löddeköpinge	Skåne	Sverige	2019-02-19	 600,00 kr 	750	750	750,0
+Börge Mogensen, vintage J39 i ek	2019-02-19	paid	Bord & Stolar	Möbler	Privatperson	Stockholm	--	Sverige	Göteborg	--	Sverige	2019-02-19	 1 000,00 kr 	1000	1250	1093,8
+Hästens sängar Adjustable 210x105 pris per st	2019-02-19	delivered	Sängar & Sovrum	Möbler	Privatperson	Östhammar	Uppsala	Sverige	Vingåker	Södermanland	Sverige	2019-02-20	 2 699,20 kr 	2500	3374	2937,0
+Zyndapp bobber	2019-02-19	delivered	Moped	Motorcyklar & Mopeder	Privatperson	Tjörn	--	Sverige	Rånäs	Stockholm	Sverige	2019-02-20	 1 700,00 kr 	2125	2125	2125,0
+Skinnsoffa Brunstad modell Weston	2019-02-19	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Nacka	Stockholm	Sverige	Jönköping	Kalmar	Sverige	2019-02-20	 1 200,00 kr 	1250	3374	1843,5
+Teak skåp / sideboard design	2019-02-19	paid	Hylla	Möbler	Privatperson	Nacka	Stockholm	Sverige	Linköping	Östergötland	Sverige	2019-02-20	 720,00 kr 	1000	938	946,0
+Liten soffa/Kanapé	2019-02-19	paid	Soffor & Fåtöljer	Möbler	Privatperson	Helsingborg	--	Sverige	Stockholm	--	Sverige	2019-02-20	 1 200,00 kr 	1500	1875	1687,5
+Matbord	2019-02-20	delivered	Bord & Stolar	Möbler	Privatperson	Sundbyberg	Stockholm	Sverige	Vaxholm	Stockholm	Sverige	2019-02-25	 1 600,00 kr 	2000	2500	2208,3
+Ikea Expedit Kallax hylla	2019-02-20	delivered	Hylla	Möbler	Privatperson	Vendelsö	Stockholm	Sverige	Älta	Stockholm	Sverige	2019-02-20	 740,00 kr 	1000	925	962,5
+2 fåtöljer	2019-02-20	delivered	Fåtölj	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-02-22	 600,00 kr 	750	900	816,7
+Möbler från Göteborg till Tyresö	2019-02-20	paid	Sängar & Sovrum	Möbler	Privatperson	Göteborg	--	Sverige	Tyresö	--	Sverige	2019-02-21	 1 900,00 kr 	2375	2375	2375,0
+3-sits soffa mellan två lägenheter i Stockholm	2019-02-20	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	--	Sverige	Solna	--	Sverige	2019-02-21	 1 120,00 kr 	1400	1625	1512,5
+Transport av ångbåtsmodell	2019-02-20	paid	Ömtåligt gods	Ömtåligt & Antikt	Privatperson	Göteborg	Västra Götaland	Sverige	Uppsala	Uppsala	Sverige	2019-02-21	 1 400,00 kr 	1750	2500	2208,3
+MATBORDVITRINSKÅP mörkt trä	2019-02-20	delivered	Hylla	Möbler	Privatperson	Göteborg	--	Sverige	Göteborg	Västra Götaland	Sverige	2019-02-21	 700,00 kr 	875	875	875,0
+Transportera matbord	2019-02-21	paid	Bord & Stolar	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-02-22	 520,00 kr 	650	700	675,0
+Bord &quot;Saturn&quot; Gunilla Allard för Lammhults	2019-02-21	delivered	Bord & Stolar	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Jönköping	Kalmar	Sverige	2019-02-21	 800,00 kr 	1000	1000	1000,0
+Matbord och 6 stolar i björk	2019-02-21	paid	Bord & Stolar	Möbler	Privatperson	Huddinge	Stockholm	Sverige	Sjöbo	--	Sverige	2019-02-24	 1 200,00 kr 	1500	1500	1500,0
+Möbelflytt	2019-02-21	paid	Flytt av hem	Flytt	Privatperson	Nacka	Stockholm	Sverige	Simrishamn	Skåne	Sverige	2019-02-25	 600,00 kr 	7500	7500	7500,0
+Frakt	2019-02-21	paid	Bord & Stolar	Möbler	Privatperson	Stockholm	--	Sverige	Göteborg	--	Sverige	2019-02-22	 1 100,00 kr 	1375	4375	2050,0
+12 stk träningsmattor från Lidingö till Halmstad	2019-02-22	paid	Mattor	Möbler	Privatperson	Lidingö	--	Sverige	Halmstad	--	Sverige	2019-02-26	 1 000,00 kr 	1250	1250	1250,0
+8 matstolarfrån Göteborg till Göteborg	2019-02-22	delivered	Bord & Stolar	Möbler	Privatperson	Göteborg	Västra Götaland	Sverige	Göteborg	Västra Götaland	Sverige	2019-02-24	 639,20 kr 	799	799	799,0
+Litet piano, vån 1 - vån 1 från Lund till Malmö	2019-02-23	paid	Pianon	Ömtåligt & Antikt	Privatperson	Lund	Skåne	Sverige	Malmö	Skåne	Sverige	2019-02-25	 2 600,00 kr 	3250	3250	3250,0
+Garderober med glasdörrar IKEA	2019-02-23	delivered	Hylla	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Skarpnäck	Stockholm	Sverige	2019-02-23	 1 200,00 kr 	1500	1500	1500,0
+2-sitssoffa från Stockholm till Norsborg	2019-02-23	delivered	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Norsborg	Stockholm	Sverige	2019-02-23	 1 000,00 kr 	1250	1500	1412,7
+Frakt av motorcykelfrån Åkersberga till Svedala	2019-02-23	paid	Motorcykel	Motorcyklar & Mopeder	Privatperson	Åkersberga	Stockholm	Sverige	Svedala	Skåne	Sverige	2019-02-24	 2 600,00 kr 	3250	3250	3250,0
+Skåp 2-dörrars från Västerås till Hägersten	2019-02-24	paid	Hyllor, Skåp & Garderober	Möbler	Privatperson	Västerås	Västmanland	Sverige	Hägersten	Stockholm	Sverige	2019-02-25	 1 520,00 kr 	1900	1900	1900,0
+3-sitssoffa från Stockholm till Stockholm	2019-02-24	paid	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Stockholm	Stockholm	Sverige	2019-02-26	 1 400,00 kr 	1750	1800	1766,7
+4-sitsigt Köksbord7 från Gothenburg till Gothenburg	2019-02-24	delivered	Bord & Stolar	Möbler	Privatperson	Gothenburg	Västra Götaland	Sverige	Gothenburg	Västra Götaland	Sverige	2019-02-25	 799,20 kr 	999	999	999,0
+6 St Sjuan-stolar	2019-02-25	paid	Övrigt	Möbler	Företag	Stockholm	Stockholm	Sverige	Kullavik	Halland	Sverige	2019-02-25	 1 000,00 kr 	1250	1250	1250,0
+Transport fyra h från Trollhättan till Sundsvall	2019-02-25	paid	Övrigt	Övriga fordon & delar	Privatperson	Trollhättan	--	Sverige	Sundsvall	Västernorrland	Sverige	2019-02-25	 960,00 kr 	1200	1875	1537,5
+2-sitssoffa från Stockholm till Helsingborg	2019-02-26	paid	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Helsingborg	Skåne	Sverige	2019-02-28	 1 200,00 kr 	1500	1500	1500,0
+Superellips Piet Hein Bruno Mathsson	2019-02-26	paid	Bord & Stolar	Möbler	Privatperson	Markaryd	Kronoberg	Sverige	Hägersten	Stockholm	Sverige	2019-02-26	 2 500,00 kr 	3125	3125	3125,0
+Radiomöbel	2019-02-26	paid	Övrigt	Allmänna objekt	Privatperson	Sollentuna	--	Sverige	Lund	--	Sverige	2019-02-27	 900,00 kr 	1125	1500	1250,0
+Transport av 6st pinnstolar från Norrköping till Linköping	2019-02-26	paid	Övrigt	Allmänna objekt	Privatperson	Norrköping	--	Sverige	Linköping	--	Sverige	2019-02-27	 500,00 kr 	625	625	625,0
+Skänk/sideboard	2019-02-26	paid	Hylla	Möbler	Privatperson	Malmö	Skåne	Sverige	Malmö	--	Sverige	2019-02-27	 800,00 kr 	1000	1000	1000,0
+2 st vitrinskåp från Stockholm till Luxembourg City	2019-02-27	paid	Hyllor, Skåp & Garderober	Möbler	Privatperson	Stockholm	Stockholm	Sverige	Luxembourg City	ALL	Luxemburg	2019-02-28	 5 000,00 kr 	6250	6250	6250,0
+3 tavlor + 1 låda från Malmö till Saltsjöbaden	2019-02-27	paid	Konst	Ömtåligt & Antikt	Privatperson	Malmö	Skåne	Sverige	Saltsjöbaden	Stockholm	Sverige	2019-02-27	 1 200,00 kr 	1500	1500	1500,0
+4-sitssoffa från Älvsjö till Farsta	2019-02-28	paid	Soffor & Fåtöljer	Möbler	Privatperson	Älvsjö	--	Sverige	Farsta	--	Sverige	2019-02-28	 1 280,00 kr 	1600	1625	1612,5
+PS Auktion nr: 543814 från Partille till Brålanda	2019-02-28	paid	Övrigt	Övriga objekt & pallar	Privatperson	Partille	Västra Götaland	Sverige	Brålanda	Västra Götaland	Sverige	2019-02-28	 4 600,00 kr 	5750	5750	5750,0
+3-sitssoffa från Stockholm till Stockholm	2019-02-28	paid	Soffor & Fåtöljer	Möbler	Privatperson	Stockholm	--	Sverige	Stockholm	--	Sverige	2019-02-28	 1 400,00 kr 	1750	1750	1750,0
+6-sitsigt Köksbord med stolar från Oxie till Nyköping	2019-02-28	paid	Bord & Stolar	Möbler	Privatperson	Oxie	Skåne	Sverige	Nyköping	--	Sverige	2019-02-28	 1 500,00 kr 	1875	1875	1875,0
